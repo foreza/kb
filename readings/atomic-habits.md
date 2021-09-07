@@ -8,16 +8,15 @@
 - Can we attribute most successes in general to good habit setting? (chapter 1)
 - Quite frankly, most of us are afraid of serious health issues. Negative compunding can directly lead to bad health issues. Can we use this knowledge to reframe how we approach our day to day so that it doesn't get to that?
 - Have we ever had any "breakthrough" moments in the last few years? How did that feel? (my personal example - skateboarding)
-- 
+- Is it a luxury to focus more on the process rather than the goal itself? As an example - learning CS and getting a job in the big tech companies. Comparing the attitudes and motivations of a well-off young person A vs another young person B who wasn't so well off and hasn't had the same opportunities. 
 
 ## Progress:
 
 9/5/21: I kicked off the whole "kb" idea to keep myself honest. A little change every day to get myself working. Initial commit. 
+9/6/21: Oh man, that habit is HARD to get started. Also, guess who forgot to charge their kindle? Anyway, I volunteer an unnecessary thought: zen mode in VS code was invented for this exact purpose.
 
 
-## Chapter 1 notes:
-
-
+## Chapter 1 Notes:
 
 ### Habits also compound, like interest. 
 1% improvement every day will compound (cycling team example, improving in unexpected areas).
@@ -79,7 +78,10 @@ No visible damage shows as they hammer away. But at the 100 or 101 hit, the rock
 Did the stonecutter hit harder than before? No. It was the combined efforts of the hits before it that weakened it enough. 
 
 
-### Breaking a bad habit is tough, builidng a good habit is like caring for a delicate flower daily. Focus on systems.
+You need to be patient. 
+
+
+### Breaking a bad habit is tough, building a good habit is like caring for a delicate flower daily. Focus on systems.
 Specific actionable goals are fine, but it's the journey that really matters.
 Goal - specific goal to achieve.
 System - the method of achieving the goal. 
@@ -110,6 +112,19 @@ Wow, this hurt. But it's true. If there is a gold medal and 5 people competing .
 If we focus on the goal alone, we're going to be in for a bad time.
 But these 5 people are also at the absolute top of their sport and they didn't get to where they were by simply dreaming - they had to train. Relentlessly.
 
+Also - survivorship bias is a thing. We celebrate the ones who made it, but don't talk about the ones who trained as hard, worked as hard, but didn't make it. 
+
+I want to also chip in a bit here - I'm not somebody you'd consider a "winner". 
+I also most certainly didn't work as hard as many of my peers to get to where I am.
+I'm doing OK for myself - but all of this is luck, and a bit of hard work where it counted.
+I have friends who most certainly are struggling to make ends meet.
+This makes me realize that it's important to call out people's efforts and not just celebrate winners.
+Not all winners are created equally, and not all goals are attained equally.
+
+Kind of a pessimistic view? I feel that people can work hard and be appreciated for hard work - and become disillusioned that their hard work didn't pay off. 
+
+As an actionable item, I want to pay it forward as much as I can and call out good, hard work when I see it being done. And hype that person up as much as possible. That's the LEAST I can do...
+
 ### Achieving the goal is momentary.
 
 Messy room cleaned? Great! It'll get messy again by next week.
@@ -117,7 +132,7 @@ But if you are constantly cleaning as you go...
 Don't treat the symptom. Root out the core root cause. 
 Fix the input of the function and the output might be better / you don't have to do as much work. 
 
-### Focusing just on goals will make you mostly miserable
+### Focusing just on goals will make you mostly miserable. Focus on the system.
 
 OW this hurt hard. But this is also true.
 If your goal is "attain a A+ at the end of the semester", boy it's going to suck.
@@ -130,5 +145,87 @@ Well, why don't I try just reading for an hour each day, and notetaking just lik
 It's not long, and it's not boring. I'm really into it, and this way generates lots of content.
 And I can push my github commit streaks.
 What's bad about that?
+
+
+### Yo-yo affect - after achieving the goal, what next?
+
+After the runner finishes the marathon, they have 2 roads.
+They can keep training anyway. Maybe it became a lifestyle.
+Or... they just stop and fall out of peak condition.
+
+What's left to do? What stops me from reverting?
+
+I worked tirelessly to get a 6 pack. Yes, I succeeded.
+And then I gained back all that weight soon after.
+The goal was reached, but the lifestyle didn't stick.
+
+Setting goals can help you win the game - but the habits allow you to keep playing the game.
+I realize that now.
+
+Even though I lost the 6 pack, I've found a bit of a happy medium where I still exercise, I don't overeat, and I watch my salt/sugar/carb intake. This process has kept the weight off.
+
+### If you can't change a bad habit, you have a bad system. You'll fall to the level of your system. 
+
+You fall to the level of your systems - you don't stay at the level that you attained the goal. 
+
+It's an interesting thought, this one. I feel it's a little bit you, too.
+Ultimately, in the end, you have to take that first dive / enforce your own system.
+
+Personal examples here - me being a bit overweight all through my earlier years, through high school and even college. 
+As long as I can remember, I see-sawed between losing weight, and not giving an arse.
+
+I was overall unhappy with the quality of life. Hard to date, hard to do anything physical, felt like a sweaty oaf all the time. 
+
+I'd work out once in a blue moon, maybe go for a run. But nothing was consistent. 
+
+I started working out properly back in 2016? and I don't think I went back since. I went with housemates and coworkers to the gym. We tried the same diets. The system in place was difficult and I remember completely taking u-turns on some days. The system itself was simple - eat a lot of protein, less carbs, alternate muscle groups and work out with a group constantly.
+
+The missing item was the group mentality, in my opinion. Long after that group has disbanded - it gave me the strength and the knowledge to go to the gym myself, work on myself, and keep myself relatively fit. 
+
+To me, I was lucky to have other people keeping me accountable as part of the system. It's fair to say that there is some truth to this statement - I had a bad system earlier on. Sporadic visits to the gym wouldn't cause anything in the long term. Calorie cutting for merely 3 days wouldn't cause anything long term. 
+
+### Habits are the atoms of your life - hence, "atomic habits".
+
+To dissect this a bit - our lives are comprised of habits. 
+Small things like doing the dishes as soon as we're done eating, sleeping at a specific time all form a part of your life.
+
+This ties into the name of the book - atomic habits. Small little units that define you.
+
+
+
+
+## Chapter 2 Notes
+
+### Easy to repeat bad habits and hard to form new ones
+
+Once a habit is established, it sticks around. 
+When we try to change a habit, we might do 2 things wrong
+- we change the wrong thing
+- we change it the wrong way
+
+3 layers of behavior change:
+- Outcomes: changing a result. Smoking? Stop smoking. Goals are set at this level.
+- Process: changing a habit or process. Cleaning your desk before starting work. Habits are at this level.
+- Identity: Changing beliefs. Your worldview, image, biases, assumptions.
+
+All these layers of change are useful.
+
+### Focus on what you want to become rather than the outcome
+
+We want to avoid outcome based habits. We want to build identity base habits.
+
+Do I want to stop smoking, or do I want to stop being known as a smoker?
+"I'm trying to quit" vs "I don't smoke".
+
+Most people don't consider identity change when they try to change.
+Behind every system of actions lies a system of beliefs.
+
+You can't truly change if you are not that sort of person.
+You can't change if your mind isn't really there and you don't identify as that.
+You need to change who you are before you can truly establish the habit you want. 
+
+
+
+
 
 
