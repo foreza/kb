@@ -9,6 +9,8 @@
 - Quite frankly, most of us are afraid of serious health issues. Negative compunding can directly lead to bad health issues. Can we use this knowledge to reframe how we approach our day to day so that it doesn't get to that?
 - Have we ever had any "breakthrough" moments in the last few years? How did that feel? (my personal example - skateboarding)
 - Is it a luxury to focus more on the process rather than the goal itself? As an example - learning CS and getting a job in the big tech companies. Comparing the attitudes and motivations of a well-off young person A vs another young person B who wasn't so well off and hasn't had the same opportunities. 
+- What is one example of what you identify as today, and do you believe that keeps you from changing a particular habit you've always wanted to change? Do you think you could change how you identify, and would that have the intended result? 
+  - [JC] For instance, I identify more as a 'pacifist'. I've always wanted to face the right issues head on rather than taking the higher ground and not seeking conflict. As such, I rarely start conflicts or fights - even when I probably should. I want to work toward identifying more as a 'opportunist' or even a 'strategist' - it's not that I don't want to start conflict, I am waiting for the right time to speak. Additionally, I want to get rid of the possible "negative' connotation that goes with pacifist - I feel like I would be able to achieve the intended result this way, which is for me to be more vocal about things that upset me so that we can make things right, at the right time (after a few minutes to simmer and calm down, but ideally within the same day). 
 
 ## Progress:
 
@@ -222,7 +224,34 @@ Behind every system of actions lies a system of beliefs.
 
 You can't truly change if you are not that sort of person.
 You can't change if your mind isn't really there and you don't identify as that.
-You need to change who you are before you can truly establish the habit you want. 
+You need to change who you are before you can truly establish the habit you want.
+
+### An old identity can sabotoge your new plans for change
+
+If you don't shift the way you look at yourself, you will not change.
+Example - voting in a dictatorship isn't possible. (but in a democracy, it is)
+
+Example of fingernail biting - once they realized the nails looked nice, the owner was proud and never bit their nails again.
+
+## When a habit becomes part of your identity, it is the ultimate form of intrinsic motivation
+
+Instead of "I want this", I am a person who IS this.
+If you pride yourself on something that you identify as, you will be motivated to maintain habits associated with the identity.
+
+Example - I identify as a technical person and am proud of the fact that I can write code and make products. I'm motivated to keep my technical skills sharp, read documentation, try code challenges, and take on technical duties where possible at work. 
+
+Other examples:
+If you are proud of biceps, you'll always work on them and never skip an upper arm workout.
+If you are proud of knitting, you'll put in the time to knit more each work.
+
+## Changing behavior is changing your identity. 
+
+You may be motivated to start a habit, but your identity is what keeps the habit. 
+All improvements would be temporary.
+
+Examples:
+
+Goal isn't to be at FAANG - the true goal is to be an engineer who these companies would pay an arm and a leg to bring onboard. 
 
 
 
