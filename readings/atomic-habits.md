@@ -6,16 +6,20 @@
 - If 1% improvement is all that it takes to achieve success, why don't more people do it? (chapter 1)
 - What are some 1% errors we have in our lives today that we could stop? (chapter 1)
 - Can we attribute most successes in general to good habit setting? (chapter 1)
-- Quite frankly, most of us are afraid of serious health issues. Negative compunding can directly lead to bad health issues. Can we use this knowledge to reframe how we approach our day to day so that it doesn't get to that?
+- Quite frankly, most of us are afraid of serious health issues. Negative compounding can directly lead to bad health issues. Can we use this knowledge to reframe how we approach our day to day so that it doesn't get to that?
 - Have we ever had any "breakthrough" moments in the last few years? How did that feel? (my personal example - skateboarding)
 - Is it a luxury to focus more on the process rather than the goal itself? As an example - learning CS and getting a job in the big tech companies. Comparing the attitudes and motivations of a well-off young person A vs another young person B who wasn't so well off and hasn't had the same opportunities. 
 - What is one example of what you identify as today, and do you believe that keeps you from changing a particular habit you've always wanted to change? Do you think you could change how you identify, and would that have the intended result? 
-  - [JC] For instance, I identify more as a 'pacifist'. I've always wanted to face the right issues head on rather than taking the higher ground and not seeking conflict. As such, I rarely start conflicts or fights - even when I probably should. I want to work toward identifying more as a 'opportunist' or even a 'strategist' - it's not that I don't want to start conflict, I am waiting for the right time to speak. Additionally, I want to get rid of the possible "negative' connotation that goes with pacifist - I feel like I would be able to achieve the intended result this way, which is for me to be more vocal about things that upset me so that we can make things right, at the right time (after a few minutes to simmer and calm down, but ideally within the same day). 
+- How do you deal with people challenging what you identify as?  
+- It's suggested that you try to identify as what you want to be rather than setting a habit that is at odds with what you are presently. Is that practical?
+- What are some examples in the last few days where we behaved in line with our own beliefs (and were conscious of it) - but the belief was not a good one.
+- Can religion, socioeconomic status, location, affect identity (and therefore your habits) and if so, in what way? 
 
 ## Progress:
 
 9/5/21: I kicked off the whole "kb" idea to keep myself honest. A little change every day to get myself working. Initial commit. 
 9/6/21: Oh man, that habit is HARD to get started. Also, guess who forgot to charge their kindle? Anyway, I volunteer an unnecessary thought: zen mode in VS code was invented for this exact purpose.
+9/7/21: Wow, I went real deep. I'm going to pull back on the amount of personal commentary and go faster for today so I'm ready for the first bookclub session tonight.
 
 
 ## Chapter 1 Notes:
@@ -226,7 +230,7 @@ You can't truly change if you are not that sort of person.
 You can't change if your mind isn't really there and you don't identify as that.
 You need to change who you are before you can truly establish the habit you want.
 
-### An old identity can sabotoge your new plans for change
+### An old identity can sabotage your new plans for change
 
 If you don't shift the way you look at yourself, you will not change.
 Example - voting in a dictatorship isn't possible. (but in a democracy, it is)
@@ -252,6 +256,142 @@ All improvements would be temporary.
 Examples:
 
 Goal isn't to be at FAANG - the true goal is to be an engineer who these companies would pay an arm and a leg to bring onboard. 
+Goal isn't to learn how to play the violin. The goal is to become a musician.
+Goal isn't to learn how to cook a dish. The goal is to become a chef..?
+
+[JC]: The other 2 goals are examples from the book - I'm not quite following, but I'll carry on.
+
+You're more likely to act in alignment with what you believe in.
+
+Doing the "right" thing is easy. So by acting like the type of person you wish to be, it's magnitudes easier to incorporate habits.
+
+
+## Identity change is also a double edge sword.
+
+It can work for you or against you. 
+If you identify as something, you could also impact your ability to change.
+
+[JC] This answers (in part) my hesitations from earlier, but the question is still out there. If I identify as an engineer, is there a scale as to how MUCH I identify? How much is too much? Seems like it's up to the discretion of the user. How much do you wish to identify? Maybe just "enough" to create the habit? 
+
+"I'm not a good people person" 
+"I'm not a morning person at all"
+"I'm always late"
+"I'm not good with any sort of tech"
+"I'm reaaal bad at math"
+
+I can at least resonate with the last one a bit. 
+I shied away from anything math since I didn't perform so well back then in high school, but math especially since I was told "You can't fail at math! It's literally the only thing asians are good at! (ow)
+
+## There is internal pressure to always maintain self image 
+
+[JC] I am on board with this thought. I feel this all the time. 
+
+You will always behave in a way that is consistent with your beliefs.
+The real reason why you'd fail to stick with a habit is that your self-image will get in the way. 
+
+
+## Good progress requires unlearning.
+
+Becoming the best version of yourself requires unlearning.
+Constant edits to your belief system. 
+Upgrading and expanding your identity.
+
+You want to constantly erase the pieces of your identity that hold you back while building new pieces that help move you forwards.
+
+## Your identity emerges out of your habits.
+
+We're not born with preset beliefs.
+You learn these beliefs, and then they are reinforced through experience.
+
+Examples:
+- making your bed every day: organized person.
+- write each day: creative/thoughtful person.
+- train each day: discipline, athletic person.
+
+The more you repeat behavior, the more you reinforce that in your system.
+If you went to church for 20 years, you are religious.
+You study calculus for 2 hours a night, you are studious.
+You drive up to your SO's house every weekend, you are a .. good SO?
+
+The author became a writer through his habits. 
+Practicing writing. Every day. 
+New article every M/Th for many years.
+
+[JC] I mean, I perceived him as an writer. So, it's clearly working for him.
+
+Identity formed out of the "mounting evidence".
+Identity forms through repetition.
+
+## Building habits is the process of building yourself - it's gradual.
+
+You don't just magically become a new person.
+It is done through hard work, repetition, and consistency.
+We ideally should be constantly evolving slowly towards the better version of us.
+
+
+
+## Every action I take is a vote for the person I wish to be.
+
+Change doesn't need to be crazy or radical. It can be small.
+Think small, but meaningful steps in the right direction.
+
+To change who you are is to change what you do.
+
+- each line of good, concise, readable code I write makes me a engineer that I'd be proud to work with.
+- each jira ticket I spend the time to write out makes me a better communicator.
+- each time i open my IDE to add more to this book reading markdown makes me a better notetaker.
+- each time I take the higher ground in the argument, I am seeking the greater good.
+
+Works the opposite/bad way too. Every time I agree to take a puff of smoke, I'm voting for cancer (long term) Every time I drink excessively, I'm stumbling a bit closer towards becoming an alcoholic. 
+
+## The 2 step process...
+
+## 1. Decide the type of person you want to be.
+
+What do you stand for?
+What are your values?
+What do you want to become?
+
+Who is the type of person who would get the outcome I want?
+
+Examples:
+- I'm the kind of teacher who stands up for my students
+- I'm the kind of lawyer who stands up for the underserved.
+- I'm the kind of doctor who ensures each patient is given the time and support they need.
+
+
+## 2. Prove it to youself with small wins.
+
+Would a healthy person eat a burrito, or a salad? 
+Choosing the salad is a small win.
+
+Would a healthy person work late into the night, or stop at a reasonable place?
+Stopping at 6 PM rather than 10 PM is a win.
+Rejecting the invite for a business call at 3 AM is a win as well.
+
+Would a healthy person have anxiety and worry about their eyes?
+No, they wouldn't. They'd continue doing whatever they were doing.
+
+
+## It's all feedback loops. 
+
+Habits shape identity, identity shapes habits.
+Results are a result of this loop.
+Let your values, principles, and identity drive the loop rather than the results.
+
+Focus on always being that type of person, not the outcome.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
