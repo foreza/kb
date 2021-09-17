@@ -1,30 +1,20 @@
 # Reading on Atomic Habits 
 
 
-## Discussion Points:
-
-- If 1% improvement is all that it takes to achieve success, why don't more people do it? (chapter 1)
-- What are some 1% errors we have in our lives today that we could stop? (chapter 1)
-- Can we attribute most successes in general to good habit setting? (chapter 1)
-- Quite frankly, most of us are afraid of serious health issues. Negative compounding can directly lead to bad health issues. Can we use this knowledge to reframe how we approach our day to day so that it doesn't get to that?
-- Have we ever had any "breakthrough" moments in the last few years? How did that feel? (my personal example - skateboarding)
-- Is it a luxury to focus more on the process rather than the goal itself? As an example - learning CS and getting a job in the big tech companies. Comparing the attitudes and motivations of a well-off young person A vs another young person B who wasn't so well off and hasn't had the same opportunities. 
-- What is one example of what you identify as today, and do you believe that keeps you from changing a particular habit you've always wanted to change? Do you think you could change how you identify, and would that have the intended result? 
-- How do you deal with people challenging what you identify as?  
-- It's suggested that you try to identify as what you want to be rather than setting a habit that is at odds with what you are presently. Is that practical?
-- What are some examples in the last few days where we behaved in line with our own beliefs (and were conscious of it) - but the belief was not a good one.
-- Can religion, socioeconomic status, location, affect identity (and therefore your habits) and if so, in what way? 
-
 ## Progress:
 
 9/5/21: I kicked off the whole "kb" idea to keep myself honest. A little change every day to get myself working. Initial commit. 
 9/6/21: Oh man, that habit is HARD to get started. Also, guess who forgot to charge their kindle? Anyway, I volunteer an unnecessary thought: zen mode in VS code was invented for this exact purpose.
 9/7/21: Wow, I went real deep. I'm going to pull back on the amount of personal commentary and go faster for today so I'm ready for the first bookclub session tonight.
+9/16/21: I went on a trip and came back on the 15th. I read the whole time, but didn't document anything here. 
+9/17/21: Removed the whole "discussion" points thing. I feel like it was getting out of hand. Fixed formatting and added all the placeholder chapters for where I need to be.
 
 
-## Chapter 1 Notes:
+## The Fundamentals
 
-### Habits also compound, like interest. 
+### Chapter 1 Notes:
+
+#### Habits also compound, like interest. 
 1% improvement every day will compound (cycling team example, improving in unexpected areas).
 Not all improvements are noticeable right away. Small improvements have an additive effect. 
 Improving bit by bit will be noticeable over a longer period of time. 
@@ -37,24 +27,24 @@ But over time, you will have saved more than a millionare who spends much more p
 Our bad (small) choices will compound into toxic results if left unchecked - catch ourselves from repeating 1% errors
 Impact of setting/changing habits can lead to very drastic changes.
 
-### Success is the byproduct of daily habits. 
+#### Success is the byproduct of daily habits. 
 Be more concerned with your trajectory than the results.
 Think about the "lagging measure". You are what you repeat (eat!).
 Goals don't matter as much as the way you get there.
 Habits are double edged sword - make them work for you.
 
 
-### Positive compounding
+#### Positive compounding
 - one extra task a day = a lot done over a year!
 - getting more knowledge a day, learning small things... commitment to lifelong learning.
 - relationships compound. being excellent (consistently) to others results in them investing in you
 
-### Negative compounding
+#### Negative compounding
 - stress compounding. Add high blood pressure, job stress, parenting = health issues!
 - negative thoughts also compound. If you think your peers are stupid, everyone will be stupid eventually to you.
 - riots/protests are not created in a day, but rather just a byproduct of microaggressions and and aggravations.
 
-### Breakthrough Moments
+#### Breakthrough Moments
 Ice cube melting analogy for describing progress.
 Room is getting warmer, ice cube stays as is until 32 degrees. 
 This is an example of a "breakthrough" moment. 
@@ -65,12 +55,12 @@ bamboo (doesn't sprout for a long long time but will then shoot up overnight)
 earthquakes (2 tectonic plates grinding for a looong time)
 
 
-### To get to a breakthrough, you must cross the "valley of disappointment".
+#### To get to a breakthrough, you must cross the "valley of disappointment".
 This is why most efforts to set habits fail - no easy return in investment, person gives up.
 
 You need to persist long enough to break through this plateau. (plateau of latent potential)
 
-### You don't necessarily waste work, it was being stored for later.
+#### You don't necessarily waste work, it was being stored for later.
 ^ I can actually resonate with this one. I spent the first few months of my new job literally contributing nothing.
 I was supposed to help out on issues, but couldn't do much since I knew nothing of the industry or the product.
 I made bad decisions, had fairly little output, and was constantly kicking myself for not being better.
@@ -87,7 +77,7 @@ Did the stonecutter hit harder than before? No. It was the combined efforts of t
 You need to be patient. 
 
 
-### Breaking a bad habit is tough, building a good habit is like caring for a delicate flower daily. Focus on systems.
+#### Breaking a bad habit is tough, building a good habit is like caring for a delicate flower daily. Focus on systems.
 Specific actionable goals are fine, but it's the journey that really matters.
 Goal - specific goal to achieve.
 System - the method of achieving the goal. 
@@ -97,7 +87,7 @@ Football Coach's goal is to win. System is to recruit the best players that foll
 Startup CEO's goal is to get brought out. System is to network extensively and every day, tackle features to increase valuation, hire developers who are familiar with scalable systems.
 Musician's goal is to play new piece. System might be to practice every day for an hour, see an instructor, replay difficult measures, try different tempos.
 
-### You could succeed in your goal if all you focused on was your system.
+#### You could succeed in your goal if all you focused on was your system.
 
 Relevant example to me  - my initial goal was to do the very best I could do in the partnership with a specific partner.
 The relationship had soured by the time I joined, so I set a lofty goal of being recognized by this partner as an outstanding individual that might even get hired by them one day.
@@ -112,7 +102,7 @@ If I had only focused on being recognized by this partner, I might have instead 
 I might have gotten impatient earlier on and just asked earlier on to be transitioned off the project.
 But since my system was to always be consistent, do my best, and be inquisitive - it paid off.
 
-### Winners have the same goals as losers
+#### Winners have the same goals as losers
 
 Wow, this hurt. But it's true. If there is a gold medal and 5 people competing ... somebody is going to lose, no doubt about it.
 If we focus on the goal alone, we're going to be in for a bad time.
@@ -131,14 +121,14 @@ Kind of a pessimistic view? I feel that people can work hard and be appreciated 
 
 As an actionable item, I want to pay it forward as much as I can and call out good, hard work when I see it being done. And hype that person up as much as possible. That's the LEAST I can do...
 
-### Achieving the goal is momentary.
+#### Achieving the goal is momentary.
 
 Messy room cleaned? Great! It'll get messy again by next week.
 But if you are constantly cleaning as you go...
 Don't treat the symptom. Root out the core root cause. 
 Fix the input of the function and the output might be better / you don't have to do as much work. 
 
-### Focusing just on goals will make you mostly miserable. Focus on the system.
+#### Focusing just on goals will make you mostly miserable. Focus on the system.
 
 OW this hurt hard. But this is also true.
 If your goal is "attain a A+ at the end of the semester", boy it's going to suck.
@@ -153,7 +143,7 @@ And I can push my github commit streaks.
 What's bad about that?
 
 
-### Yo-yo affect - after achieving the goal, what next?
+#### Yo-yo affect - after achieving the goal, what next?
 
 After the runner finishes the marathon, they have 2 roads.
 They can keep training anyway. Maybe it became a lifestyle.
@@ -170,7 +160,7 @@ I realize that now.
 
 Even though I lost the 6 pack, I've found a bit of a happy medium where I still exercise, I don't overeat, and I watch my salt/sugar/carb intake. This process has kept the weight off.
 
-### If you can't change a bad habit, you have a bad system. You'll fall to the level of your system. 
+#### If you can't change a bad habit, you have a bad system. You'll fall to the level of your system. 
 
 You fall to the level of your systems - you don't stay at the level that you attained the goal. 
 
@@ -190,7 +180,7 @@ The missing item was the group mentality, in my opinion. Long after that group h
 
 To me, I was lucky to have other people keeping me accountable as part of the system. It's fair to say that there is some truth to this statement - I had a bad system earlier on. Sporadic visits to the gym wouldn't cause anything in the long term. Calorie cutting for merely 3 days wouldn't cause anything long term. 
 
-### Habits are the atoms of your life - hence, "atomic habits".
+#### Habits are the atoms of your life - hence, "atomic habits".
 
 To dissect this a bit - our lives are comprised of habits. 
 Small things like doing the dishes as soon as we're done eating, sleeping at a specific time all form a part of your life.
@@ -200,9 +190,9 @@ This ties into the name of the book - atomic habits. Small little units that def
 
 
 
-## Chapter 2 Notes
+### Chapter 2 Notes
 
-### Easy to repeat bad habits and hard to form new ones
+#### Easy to repeat bad habits and hard to form new ones
 
 Once a habit is established, it sticks around. 
 When we try to change a habit, we might do 2 things wrong
@@ -216,7 +206,7 @@ When we try to change a habit, we might do 2 things wrong
 
 All these layers of change are useful.
 
-### Focus on what you want to become rather than the outcome
+#### Focus on what you want to become rather than the outcome
 
 We want to avoid outcome based habits. We want to build identity base habits.
 
@@ -230,14 +220,14 @@ You can't truly change if you are not that sort of person.
 You can't change if your mind isn't really there and you don't identify as that.
 You need to change who you are before you can truly establish the habit you want.
 
-### An old identity can sabotage your new plans for change
+#### An old identity can sabotage your new plans for change
 
 If you don't shift the way you look at yourself, you will not change.
 Example - voting in a dictatorship isn't possible. (but in a democracy, it is)
 
 Example of fingernail biting - once they realized the nails looked nice, the owner was proud and never bit their nails again.
 
-## When a habit becomes part of your identity, it is the ultimate form of intrinsic motivation
+#### When a habit becomes part of your identity, it is the ultimate form of intrinsic motivation
 
 Instead of "I want this", I am a person who IS this.
 If you pride yourself on something that you identify as, you will be motivated to maintain habits associated with the identity.
@@ -248,7 +238,7 @@ Other examples:
 If you are proud of biceps, you'll always work on them and never skip an upper arm workout.
 If you are proud of knitting, you'll put in the time to knit more each work.
 
-## Changing behavior is changing your identity. 
+#### Changing behavior is changing your identity. 
 
 You may be motivated to start a habit, but your identity is what keeps the habit. 
 All improvements would be temporary.
@@ -266,7 +256,7 @@ You're more likely to act in alignment with what you believe in.
 Doing the "right" thing is easy. So by acting like the type of person you wish to be, it's magnitudes easier to incorporate habits.
 
 
-## Identity change is also a double edge sword.
+#### Identity change is also a double edge sword.
 
 It can work for you or against you. 
 If you identify as something, you could also impact your ability to change.
@@ -282,7 +272,7 @@ If you identify as something, you could also impact your ability to change.
 I can at least resonate with the last one a bit. 
 I shied away from anything math since I didn't perform so well back then in high school, but math especially since I was told "You can't fail at math! It's literally the only thing asians are good at! (ow)
 
-## There is internal pressure to always maintain self image 
+#### There is internal pressure to always maintain self image 
 
 [JC] I am on board with this thought. I feel this all the time. 
 
@@ -290,7 +280,7 @@ You will always behave in a way that is consistent with your beliefs.
 The real reason why you'd fail to stick with a habit is that your self-image will get in the way. 
 
 
-## Good progress requires unlearning.
+#### Good progress requires unlearning.
 
 Becoming the best version of yourself requires unlearning.
 Constant edits to your belief system. 
@@ -298,7 +288,7 @@ Upgrading and expanding your identity.
 
 You want to constantly erase the pieces of your identity that hold you back while building new pieces that help move you forwards.
 
-## Your identity emerges out of your habits.
+#### Your identity emerges out of your habits.
 
 We're not born with preset beliefs.
 You learn these beliefs, and then they are reinforced through experience.
@@ -322,7 +312,7 @@ New article every M/Th for many years.
 Identity formed out of the "mounting evidence".
 Identity forms through repetition.
 
-## Building habits is the process of building yourself - it's gradual.
+#### Building habits is the process of building yourself - it's gradual.
 
 You don't just magically become a new person.
 It is done through hard work, repetition, and consistency.
@@ -330,7 +320,7 @@ We ideally should be constantly evolving slowly towards the better version of us
 
 
 
-## Every action I take is a vote for the person I wish to be.
+#### Every action I take is a vote for the person I wish to be.
 
 Change doesn't need to be crazy or radical. It can be small.
 Think small, but meaningful steps in the right direction.
@@ -344,9 +334,9 @@ To change who you are is to change what you do.
 
 Works the opposite/bad way too. Every time I agree to take a puff of smoke, I'm voting for cancer (long term) Every time I drink excessively, I'm stumbling a bit closer towards becoming an alcoholic. 
 
-## The 2 step process...
+#### The 2 step process...
 
-## 1. Decide the type of person you want to be.
+##### 1. Decide the type of person you want to be.
 
 What do you stand for?
 What are your values?
@@ -360,7 +350,7 @@ Examples:
 - I'm the kind of doctor who ensures each patient is given the time and support they need.
 
 
-## 2. Prove it to youself with small wins.
+##### 2. Prove it to youself with small wins.
 
 Would a healthy person eat a burrito, or a salad? 
 Choosing the salad is a small win.
@@ -373,7 +363,7 @@ Would a healthy person have anxiety and worry about their eyes?
 No, they wouldn't. They'd continue doing whatever they were doing.
 
 
-## It's all feedback loops. 
+#### It's all feedback loops. 
 
 Habits shape identity, identity shapes habits.
 Results are a result of this loop.
@@ -382,19 +372,57 @@ Let your values, principles, and identity drive the loop rather than the results
 Focus on always being that type of person, not the outcome.
 
 
+### Chapter 3 notes
+
+- behaviors followed by satisfying consequences are repeated.
+- behaviors that produce not so satisfying consequences are not.
+- habits are behaviors that have become automatic, simple solutions to our environment. mental shortcuts. 
+- when first forming a habit, neurological brain activity is high
+- feedback loop - try, fail, learn, try something else. trial and error.
+- after a solution is found, brain automates the process. "if this, then that".
+- the conscious mind is a bottleneck for the brain. (we typically might think of them one and the same)
+  - conscious mind likes to pass tasks to the unconscious part of the mind.
+  - habits are formed as a result of this
+- habits LEAD to freedom. less decisions that need to be made is better. mind can focus on other things that you want to think about.
+- habit has 4 steps in the loop: cue, craving, response, reward.
+- cue triggers a craving, craving triggers a response, response gives reward.
+- cue/craving = problem, response/reward = solution.
+- our mind is always scanning for rewards internally and externally.
+- we crave not the "thing", but the change in state. brain is a reward detector.
+- every person processes "cues" differently. different people are motivated by different cues. 
+- response to the craving happens depending on the amount of friction that needs to be overcome (by the behavior)
+- all habits must have some sort of reward. cue -> reward.
+- if any part of this feedback loop is missed, habits won't form. 
+- we'll act without thinking in the case of a well formed habit.
+- we all have decades of mental programming and rarely notice habits that run our lives. 
+- making a habit is applying these 4 steps. make an obvious cue, make it really pretty, make it easy to respond to, add a satisfying reward.
+- breaking a bad habit is inverting these 4 steps. remove the cue, make it unattractive, make it difficult to response, remove the reward. 
 
 
 
 
 
+## The 1st Law
+
+### Chapter 4 notes
+
+### Chapter 5 notes
+
+### Chapter 6 notes
+
+### Chapter 7 notes
+
+
+## The 2nd Law
+
+### Chapter 8 notes
 
 
 
+### Chapter 9 notes
 
 
-
-
-
+### Chapter 10 notes
 
 
 
