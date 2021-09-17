@@ -37,3 +37,32 @@ Prior, he was playing a small little tune.. now we got a crazy bombardment of tr
 
 It was so small and insignificant. 
 But at that moment, I think we did the right thing.
+
+## 2 - A happy accident leading to a Louisiana Trip
+
+I'll preface this by saying that this wasn't an actual trip to louisiana.
+But my taste buds don't know the difference.
+
+We had this challenge of trying to eat all the different restaurants in our area.
+We were down to just a handful - one of them was a thai place near us, as well as a recently opened new orleans style restaurant. 
+
+After some deliberation, we went first to the thai place. 
+Inside the restaurant, plenty of folks and essentially a full house on a Thursday night.
+No room indoors, so the waiter told us to go around to their patio and order using our phones.
+Sky high menu prices as well as being seated outdoors (with nobody else around) led to a hasty retreat. 
+
+
+We instead opted for the other restaurant, which was only a couple minutes away.
+
+Besides another table of 2, it was just us.
+I wanted the gumbo - but the waiter told us that they were out! (OH NO)
+
+I ended up getting the fish dinner with a side of mac and cheese.
+My SO opted for a shrimp po'boy (essentially, a sandwich).
+
+It was wonderful. The food took a bit of time for sure, but it was to be expected.
+Cleaned my plate and destroyed the sandwich. 
+
+Would go back. 
+
+This reads like a yelp review.
