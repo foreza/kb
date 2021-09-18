@@ -473,9 +473,27 @@ Focus on always being that type of person, not the outcome.
 - Habits must be specific. "read more" is not specific. "read one chapter of this book before beginning the workday and as i have my morning coffee" is more specific.
 
 
-
-
 ### Chapter 6 notes
+
+- example of adding more water options to cafeteria and making it more accessible
+- people choose products based off of where they are, not what they are. examples: selecting a food product because it's on the middle shelf, not the bottom shelf. or eating cookies not because you like them, but because they were "right there" 
+- environment shapes your behavior. Lewin: "behavior is a function of a person in their environment"
+- customers might buy products simply due to how it was presented to them
+- half of the brain's resources are devoted to vision. what you see can really impact what you do.
+- example of where the electric meter was impacting usage of electricity - folks who saw the meter every day used less electricity overall
+- "out of sight, out of mind" is the key here. if the cue to spark a habit is hidden, it becomes easy to ignore
+- make your habit cue a BIG part of your environment. it'll be harder to ignore. and it is much easier to make a better decision if the cue for your habit is in front of you
+- be a designer of your own world, not just the consumer of it
+- example: being at a bar, you feel like you want to drink. locations develop certain habits and routines.
+- look at your environment as relationships, not simply things
+- habits are easier to change in a new environment. new place opens your eyes.
+- avoid mixing context of one habit with the other. if phone is used for multiple things..can't use it for one task. (i use it just for calls and mail nowadays)
+- you need an environment that is stable and predictable. <==
+
+Aside - listened to a podcast on edison. edison was extremely hard of hearing. this seemed to lend a hand to his inventing capabilities as he was able to tone out distractions: https://www.nps.gov/edis/faqs.htm . perhaps there is value in "losing" senses as it'll lend sharpeness in other areas.
+
+Second Aside - I've been living in 2 houses since the start of the pandemic. I don't have a stable environment developed really well in either. That's a lot of work for me! 
+
 
 ### Chapter 7 notes
 
