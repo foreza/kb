@@ -406,6 +406,62 @@ Focus on always being that type of person, not the outcome.
 
 ### Chapter 4 notes
 
+- example of heart attack prevention - paramedic was able to spot the signs of heart attack even before it occurred. recognized a pattern of less blood being sent to face.
+- brain is a prediction machine always running in the background, it notices what is "important" 
+- you don't need to be aware of a "cue" for it to begin the habit. this makes habits dangerous as the actions come from your subconcious.
+- cues can be so common they become invisible. 
+- gain control of your current habits before building new ones
+- example of awareness - pointing and calling out for the japanese rail
+- there are no GOOD or BAD habits. just EFFECTIVE ones. 
+- if you pursue a habit that conflicts with your DESIRED identity, you're going to have a bad time.
+- "does this behavior help me become the person i want to be?"
+- speak your "bad" habits out loud to draw awareness to them and make the consequences of such a habit more real
+- the process of changing a habit starts with noticing it and being aware of it
+
+
+#### List of my "daily" habits during a typical workday
+
+- wake up =
+- (if SO is nearby) check in on her + 
+- check watch/time =
+- if there is time, sleep in a bit more - // sleeping in too much could be bad
+- otherwise, get out of bed, put on something warm +
+- drink some water +
+- check personal phone for any urgent messages =  // as long as it's a quick glance at the screen and no actual browsing, we're good. 
+- check work phone for anything urgent - // that can wait after i'm at work.
+- occasionally get into skimming work emails  - // that can wait until i'm at work
+- use the bathroom = 
+- sometimes, if nothing urgent, workout here, then shower. + // nothing should stop me from getting in some exercise in the morning.
+- brush teeth = // could also make sure to floss here.
+- wash face = 
+- make coffee = // note that the act of making coffee itself is fine, not the actual side effects of it... currently hyper and mild headache and that feels bad. need to amend this habit so i'm not hurting myself and it becomes a positive.
+- make breakfast 
+- have coffee while planning out the workday + // should ONLY be planning.
+- review personal things to be done that day +
+- empty out humidifier and replace water = 
+- change clothes into work clothes +
+- apply eye drops = // need to do this consistently for now since dry eyes.
+- start working until a bit before noon, usually trying to take screen breaks after 20-30 minutes of work = // this can be broken down more
+- prepare lunch +
+- eat lunch while watching TV (with roommate or SO) =
+- take a brief break and apply heat mask to eyes +
+- continue working =
+- try to finish working around 5 + // darn right i should!
+- go outside for a walk / do exercise for at least half an hour +
+- chill time, reading or scroll phone =
+- prepare dinner +
+- eat dinner =
+- chat with roommate a bit +
+- chill time = // need to better define what i do here
+- catch up with girlfriend +
+- no more phones or screens after 10 PM +
+- brush teeth =
+- read a bit +
+- put on dental guard, eye mask, nose strips + // sleeping is the formula to success
+- lights out before 11 most days +
+
+
+
 ### Chapter 5 notes
 
 ### Chapter 6 notes
