@@ -464,6 +464,17 @@ Focus on always being that type of person, not the outcome.
 
 ### Chapter 5 notes
 
+- you need *implementation intention* to get started on a habit - make a plan about when and where to act. how do you plan to implement a habit? being specific helps progress.
+- common cues to trigger a habit are time and location. "when situation X happens, i will do response Y"
+- people who create a plan for implementation will more likely follow through with it because they have more CLARITY
+- **Diderot effect** : obtaining one item may spiral into obtaining more items. This states a common principle - doing one action typically may cascade into more
+- **Habit stacking** : Applying the diderot effect by pairing a current habit with a new one you are trying to do. Tie existing behavior with a new one you'd like to do. - You want to have a game plan for which action should come next. Habit stacking implicitly uses the existing time and place for the existing habit to reduce friction.
+- Try to chain this off of successful habits to raise your success rate when habit stacking. 
+- Habits must be specific. "read more" is not specific. "read one chapter of this book before beginning the workday and as i have my morning coffee" is more specific.
+
+
+
+
 ### Chapter 6 notes
 
 ### Chapter 7 notes
