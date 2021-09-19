@@ -497,6 +497,20 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 
 ### Chapter 7 notes
 
+- example: heroin addicts during wartime stopped being addicted when they were back home, away from a war torn environment. addictions in this case could disappear right away.
+- on the other hand, many heroin addicts who went to rehab got better, came back home and relapsed.
+- "all that is needed is a bit of discipline" is an incorrect prevalent thought
+- what we regard as "disciplined" people typically just put themselves in less tempting positions - don't need to practice self restraint if you are not in a situation to begin with
+- once you've encoded a habit, if you don't see the cue, you don't act.
+- we want to avoid the runaway train of bad habits - they are autocatalytic and one bad habit will typically lead to another
+- external cravings can cause you to repeat a bad habit
+- example: cocaine addicts being shown a picture of cocaine so fast that their brains didn't have time to fully process it, but right away, brain activity in the reward pathway.
+- you can break a habit but you won't fully forget it.
+- **to eliminate a bad habit, reduce exposure to the cue that starts it**
+- for breaking a had habit, invert the first law - make it NOT obvious. 
+
+
+
 
 ## The 2nd Law
 
