@@ -8,6 +8,7 @@
 9/7/21: Wow, I went real deep. I'm going to pull back on the amount of personal commentary and go faster for today so I'm ready for the first bookclub session tonight.
 9/16/21: I went on a trip and came back on the 15th. I read the whole time, but didn't document anything here. 
 9/17/21: Removed the whole "discussion" points thing. I feel like it was getting out of hand. Fixed formatting and added all the placeholder chapters for where I need to be.
+9/19/21: Been working at this steadily and documenting my highlighted parts. 
 
 
 ## The Fundamentals
