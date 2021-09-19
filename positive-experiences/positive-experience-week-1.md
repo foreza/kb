@@ -66,3 +66,27 @@ Cleaned my plate and destroyed the sandwich.
 Would go back. 
 
 This reads like a yelp review.
+
+## 3 - A quiet journey downtown
+
+Don't we all want that?
+Just a quiet trip.
+
+I took the bus downtown yesterday.
+Missed the intended stop. 
+I had no particular agenda or goal beyond being nearby and early enough for a friend's birthday dinner.
+And I was at least 2 hours early.
+
+I walked around downtown for a bit.
+Found a really crazy homeless flat comprised all of discarded massage chairs, expensive tables, and more.
+Saw some things I wouldn't have seen had I been driving like I always have.
+
+In my mind, I was able to link 2 parts of town together that I had always thought were separate - just walking those myself helped me understand the lay of the land.
+
+I ended my journey at a coffee shop that I had last been at pre-pandemic.
+Didn't have coffee. Sat down and went through one of the books I read for pleasure.
+
+Ah. To really celebrate the last days of not working...
+
+
+
