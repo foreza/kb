@@ -533,14 +533,19 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 - on a learned habit, dopamine is released before the reward
 - **temptation bundling** can be used - applying something you want in order to accomplish something you need to do. 
 - **premack's principle** - more probable behavior will reinforce less probable behaviors
-- to utilize these, do the thing you want after the thing you need.
-
-
+- to utilize both premack's principle and temptation bundling well, **do the thing you want after the thing you need**.
 
 
 
 ### Chapter 9 notes
 
+- example of laszlo and his chess prodigy children proving that there is no such thing as innate talent - just hard work and practice. children turned out to all be fanatics about chess
+- humans are herd animals. we avoid being cast out at all costs.
+- we imitate our earliest habits - they are attractive to us because they allow us to fit in.
+- we can sort these into 3 categories
+  - the close: parents, peers. to use this - be around people you want to imitate / be more like. you'll soak up their qualities
+  - the many: the crowd. example of the line length experiment where even if you are wrong, you go with the crowd sentiment to not be cast out. **we'd rather be wrong as a whole than right as an individual**
+  - the powerful: we all crave power and prestige, status. so we would avoid behaviors that lower our status. 
 
 ### Chapter 10 notes
 
