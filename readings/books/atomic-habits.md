@@ -9,6 +9,7 @@
 9/16/21: I went on a trip and came back on the 15th. I read the whole time, but didn't document anything here. 
 9/17/21: Removed the whole "discussion" points thing. I feel like it was getting out of hand. Fixed formatting and added all the placeholder chapters for where I need to be.
 9/19/21: Been working at this steadily and documenting my highlighted parts. 
+9/20/21：First day of work at new job, spent a lot of time prepping food. Finally getting around to the reading.
 
 
 ## The Fundamentals
@@ -516,6 +517,25 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 ## The 2nd Law
 
 ### Chapter 8 notes
+
+- example of red spot on beak and goose rolling round objects - genetic programming.
+- superhuman stimuli cause strong responses than usual.
+- food science abuses the above in particular through the increased amounts of sugar, fat, salt to trigger this through orosensation/dynamic contrast (french fries, oreo cookies)
+- healthy foods typically lack this (eating just spinach by itself), so not enjoyable to eat
+- all examples of 2nd law in play. making things attractive!
+- pleasure packed experiences are hard to resist - so make our habits attractive
+- all habits share the dopamine spike - a biological signature
+- example of rats with dopamine suppressed, no will to live. no desire, no action.
+- **dopamine is released when we anticipate and experience pleasure**
+- example of a gambler - the dopamine actually is released before they place a bet
+- difference between "WANT" and "LIKE". brain is better at WANTING than liking.
+- before a habit is learned, dopamine is released on reward.
+- on a learned habit, dopamine is released before the reward
+- **temptation bundling** can be used - applying something you want in order to accomplish something you need to do. 
+- **premack's principle** - more probable behavior will reinforce less probable behaviors
+- to utilize these, do the thing you want after the thing you need.
+
+
 
 
 
