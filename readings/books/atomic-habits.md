@@ -549,5 +549,26 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 
 ### Chapter 10 notes
 
+- example of smoking - when in group of friends, you smoke... but you don't actually want to smoke, you don't enjoy it. book that helped them quit is full of repetitive phrases that make smoking look unattractive.
+- all cravings have underlying motives. products typically latch onto some underlying motive. modern solution to ancient desire
+  - conserve energy?
+  - get food/water?
+  - love, reproduction?
+  - connect and bond?
+  - win social acceptance?
+  - reduce uncertainity
+  - status/prestige
+- you want to find a good solution to address your underlying motives
+- habits are associations. cue -> predictions.
+- life is PREDICTIVE, not REACTIVE (despite what you may think!)
+- your behavior depends on how you interpret events.
+- **action is taken only when you predict you'd be in a better state**
+- hard habits can be made easier if you associate them with a positive experience (ie: boba after therapy, haha)
+- **you HAVE to? no. use, you GET to**. Define your own reality.
+- can try doing motivation rituals. associate your habit with something you enjoy, then use the cue when you need to get started with that habit. 
+- **reframe your associations to fix your bad habits**
+
+
+
 
 
