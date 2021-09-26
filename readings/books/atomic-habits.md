@@ -10,6 +10,7 @@
 9/17/21: Removed the whole "discussion" points thing. I feel like it was getting out of hand. Fixed formatting and added all the placeholder chapters for where I need to be.
 9/19/21: Been working at this steadily and documenting my highlighted parts. 
 9/20/21：First day of work at new job, spent a lot of time prepping food. Finally getting around to the reading.
+9/22/21: Had a bookclub meeting - next goal will be 3rd law. Also, I'm going to stop tracking progress here, it's silly when I am putting this on a VCS already
 
 
 ## The Fundamentals
