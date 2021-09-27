@@ -22,4 +22,10 @@ Thanks, LR. Remote onboarding is difficult, eh?
 
 
 
-## 3 - 
+## 3 - Seaside tunneling and the birth of a bird
+
+Just a small thing / memory.
+We went to the beach today and sat for a bit, reading and thinking.
+My SO came up with a name for a poem/piece after observing a couple of tiny birds.
+I was reading a book as well as digging a tunnel with my 2 feet in the sand.
+Makes me wonder why we don't do that more often
