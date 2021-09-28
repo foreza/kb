@@ -405,7 +405,7 @@ Focus on always being that type of person, not the outcome.
 
 
 
-## The 1st Law
+## The 1st Law - make it OBVIOUS (invert: invisible)
 
 ### Chapter 4 notes
 
@@ -515,7 +515,7 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 
 
 
-## The 2nd Law
+## The 2nd Law - make it ATTRACTIVE (invert: unattractive)
 
 ### Chapter 8 notes
 
@@ -570,7 +570,7 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 - **reframe your associations to fix your bad habits**
 
 
-## The 3rd law
+## The 3rd law - make it EASY (invert: difficult)
 
 ### Chapter 11
 - Walk slowly. Never backward.
@@ -604,7 +604,16 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 - the more you ritualize, the easier it will be to slip into the deep focus required to do amazing things
 - standardize, then optimize. can't improve a habit that doesn't exist!
 
-### Chapter 14ß
+### Chapter 14
+
+- example: victor hugo commitment device to getting his book done - locking away all of his outdoors clothes.
+- success may just be intentionally making bad habits HARD to do.
+- inverting the 3rd law - make it DIFFICULT. change the task so it's harder to get OUT of doing a good habit, and harder to begin a bad habit.
+- commitment device is a choice you make in the present to control your future actions
+- example: cash register replacement caused theft to vanish altogether since the option was no longer there. one time IMPACTFUL choice can set you on the path to success or failure. 
+- if you automate as much of your life as possible, you spend time on the tasks that machines cannot do. (conversely, it can work against us, like TV binging) - this is the key to locking in a good habit.
+- use tech as necessary to help you automate habits.
+- **remove the mental candy from the environment**
 
 
 
