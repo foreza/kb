@@ -570,6 +570,48 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 - **reframe your associations to fix your bad habits**
 
 
+## The 3rd law
+
+### Chapter 11
+- Walk slowly. Never backward.
+- Example - photography students in 2 groups. Group that was tasked to "take as many photos as possible" did better than the group that was instructed to provide one good photo.
+- the brain has muscles and needs exercise.
+- **automaticity**: ability to perform a behavior without thinking about each step
+- habits form on frequency, not time
+- the 3rd law is to make it EASY. and thus, repeatable.
+- most effective part of learning is practice. not planning.  don't get so focused on planning - take action instead.
+- focus on actually being in action, not merely motion
+- habits only form through repetition. repetition is important, not perfection
+- the amount of time you practice the habit is meaningless. only the number of times you have done it.
+
+### Chapter 12
+- the 3rd law could also be called, "law of least effort". human behavior will always gravitate toward the option with least work.
+
+- example of agriculture spread in europe vs the americas. south/north america has major climate change vs europe/asia has more temperate climate throughout - easier to grow crop
+- energy is precious - brain is wired to protect it at all costs. so reduce friction.
+- again, need to reduce friction as much as possible - concept of **addition by subtraction** 
+- you want to prime environment for future use (ie: resetting the room). make the good habit have as little resistance as possible. create an environment so doing the right thing is too easy
+- invert this principle to get rid of bad habits by increasing resistance
+
+### Chapter 13
+- 2 minute rule - all good habits can start with a small ritual to jumpstart. gateway habit. "when you start a new habit, it should take less than 2 min to do"
+- example: dancer's ritual of working out. hailing a taxi is the ritual. (one less thing to think about)
+- example: running a marathon is not a gateway habit. put on your running shoes instead.
+- habit is like an freeway entrance ramp, an entry point. once you're started, it's hard to stop. 
+- example for author - either they are working out, or ordering out and sitting on the couch. ritual is changing into workout clothes.
+- many little moments that can lead to big change -  decisive moments. habits are formed out of these moments. can be a productive/unproductive day
+- if 2 min rule feels forced, tell yourself "only 2 min" and see if you even stop
+- the more you ritualize, the easier it will be to slip into the deep focus required to do amazing things
+- standardize, then optimize. can't improve a habit that doesn't exist!
+
+### Chapter 14ß
+
+
+
+
+
+
+
 
 
 
