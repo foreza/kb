@@ -2,6 +2,13 @@
 
 This is a collection of stuff that resonated with me or hit me right in the feels.
 
+> "I prayed for twenty years but received no answer until I prayed with my legs." (Frederick Douglass)
+
+Sometimes, you just need to take one step. Can't hope forever! 
+
+> ""You only need to know the direction, not the destination. The direction is enough to make the next choice." (james clear)
+
+This helped me clarify what I needed to do next. I'll have to use this more often. Just start moving. 
 
 > “Money is numbers and numbers never end. If it takes money to be happy, your search for happiness will never end.” (bob marley) 
 
