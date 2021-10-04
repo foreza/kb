@@ -2,6 +2,13 @@
 
 This is a collection of stuff that resonated with me or hit me right in the feels.
 
+> “The question no longer is whether to outsource, but what and how much to outsource.” (Courtney Rogerson)
+
+Pulled this from a work newsletter, but the message is clear. We want to delegate/outsource things that are not our core competencies.
+If I'm not good at reminders, let your phone remind you it's time to eat. We're not good at remembering many many things, so write it down / email yourself / put it in the calendar.
+If you tap a generalist for an extremely specific use case, don't act surprised if they have to pass it onto somebody else.
+Likewise, if you have a mission critical service, you want redundency and likely multiple (but well managed) points of failure rather than a single point of failure that will result in 100% downtime. If you don't outsource some of this, if it goes down, it goes down HARD.
+
 > "I prayed for twenty years but received no answer until I prayed with my legs." (Frederick Douglass)
 
 Sometimes, you just need to take one step. Can't hope forever! 
