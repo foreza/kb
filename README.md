@@ -1,6 +1,7 @@
 # kb
 Keeping myself accountable.
-Tackling reading, documenting my daily gratitude, and positive experiences. 
+Tackling reading, documenting my daily gratitude, and positive experiences.
+Also, recipes that I have to fine tune over time since the pandemic has forced my hand. 
 
 ## readings
 

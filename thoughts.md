@@ -2,6 +2,13 @@
 
 This is a collection of stuff that resonated with me or hit me right in the feels.
 
+> "A good teacher does not teach facts, he or she teaches enthusiasm, open-mindedness and values." (Gian-Carlo Rota)
+
+I agree. We have the ideas behind teaching a bit backwards, now. We insist on ensuring all curriculum is standard so that everyone gets the "same" education, and we do standardized testing. But now, we have a generation (of which I am a part) where we may not think to question, we give up right away when things are not in our favor, and we cling to beliefs that we ourselves do not fully understand...
+
+And it's a struggle to unlearn these. We were stuffed with vocab and memorized many things just to pass tests. In the end of the day, I think our teachers were doing what they had to do, but not what they should have done.
+
+
 > “The question no longer is whether to outsource, but what and how much to outsource.” (Courtney Rogerson)
 
 Pulled this from a work newsletter, but the message is clear. We want to delegate/outsource things that are not our core competencies.
