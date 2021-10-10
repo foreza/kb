@@ -2,6 +2,16 @@
 
 This is a collection of stuff that resonated with me or hit me right in the feels.
 
+> You are replaceable at work. You are not replaceable at home. Home is your real life.
+
+I know this. No matter what my folks at work say, I'll be replaceable. They can always find another mobile tech savvy guy like me, heck. But J the human is harder to replace in the context of a friendship or relationship. 
+
+
+> I also do a silent day every 1-2 weeks when I don't speak for a day and don't use my phone either. I observed that when I don't speak for a day, I get a lot more clarity in my mind. (some person on linkedin)
+
+I did this once. It was awkward writing everything down on paper or messaging - I suppose I'll have to cut that out too if I repeat this. But it was certainly the experience. I feel that we need to do more listening! 
+
+
 > "A good teacher does not teach facts, he or she teaches enthusiasm, open-mindedness and values." (Gian-Carlo Rota)
 
 I agree. We have the ideas behind teaching a bit backwards, now. We insist on ensuring all curriculum is standard so that everyone gets the "same" education, and we do standardized testing. But now, we have a generation (of which I am a part) where we may not think to question, we give up right away when things are not in our favor, and we cling to beliefs that we ourselves do not fully understand...
