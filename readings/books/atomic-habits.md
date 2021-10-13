@@ -1,18 +1,5 @@
 # Reading on Atomic Habits 
 
-
-## Progress:
-
-9/5/21: I kicked off the whole "kb" idea to keep myself honest. A little change every day to get myself working. Initial commit. 
-9/6/21: Oh man, that habit is HARD to get started. Also, guess who forgot to charge their kindle? Anyway, I volunteer an unnecessary thought: zen mode in VS code was invented for this exact purpose.
-9/7/21: Wow, I went real deep. I'm going to pull back on the amount of personal commentary and go faster for today so I'm ready for the first bookclub session tonight.
-9/16/21: I went on a trip and came back on the 15th. I read the whole time, but didn't document anything here. 
-9/17/21: Removed the whole "discussion" points thing. I feel like it was getting out of hand. Fixed formatting and added all the placeholder chapters for where I need to be.
-9/19/21: Been working at this steadily and documenting my highlighted parts. 
-9/20/21：First day of work at new job, spent a lot of time prepping food. Finally getting around to the reading.
-9/22/21: Had a bookclub meeting - next goal will be 3rd law. Also, I'm going to stop tracking progress here, it's silly when I am putting this on a VCS already
-
-
 ## The Fundamentals
 
 ### Chapter 1 Notes:
@@ -616,12 +603,28 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 - **remove the mental candy from the environment**
 
 
-## The 4th law - make it Satisfying 
+## The 4th law - make it Satisfying (inversely, make it not satisfying to break)
 
 ### Chapter 15
--
--
+- We're more likely to repeat a behavior (and therefore a good habit) if it is satisfying.
+- We're silly. We're still prioritizing immediate reward over long term delayed reward
+- What is rewarded will be repeated, what is punished will be avoided
+- To get habits to stick, it needs to make you feel immediately successful - however small
+- The first 3 laws make it much more likely that a behavior is done, but this behavior ensures it will complete the cycle by making it more likely to be repeated
+- 
 
 
+### Chapter 16
+- making progress is a very satisfying feeling, so use habit trackers. X on a calendar, check on a checklist.
+- keep the chain going, keep your streaks alive. do not miss more than once, get back on track ASAP
+- just because you can measure it doesn't mean it's important (ie: jason growing trees)
+- (excerpt) 2 jars on desk, with paperclips. moving stuff from one side to the other. satisfying and small - paper clip strategy. 
+- (saying) first rule of compounding - never interrupt it unnecessarily. 
 
+### Chapter 17
+- make bad habits unsatisfying - we're not going to repeat something painful/unsatisfactory
+- get an accountability partner to create an immediate cost to not acting. (we prioritize how peeps look at us) - you can set it up so people are always watching. use that.
+- use habit contracts to add a cost (monetary, social) - it makes your violation that much more real and painful.
+- (excerpt) president with nuclear launch codes. having to kill the volunteer as an idea of ensuring the president didn't ever go trigger happy.
+- (excerpt) seat belt law. laws/regulations form social contracts. mask mandates? social contract with the guy who paid his trainer for every time he fails to log food. excessive, but works! 
 
