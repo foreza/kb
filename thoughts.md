@@ -2,6 +2,19 @@
 
 This is a collection of stuff that resonated with me or hit me right in the feels.
 
+> "The secret to being productive is to work on the right thing—even if it's at a slow pace." (James Clear)
+
+I've been working on the "right" thing for a couple years now. I'm not the best, but I'm better than before. Consistent technical practice, reading, and steady small projects has built up a pretty strong foundation which is already bearing fruit for my first job.
+
+
+
+> When people ask me how to help, I tell them to ask people what they need. (Stephanie Land)
+
+The whole article was a whirlwind to read. Once again... I am so lucky to have what I have. The perspective change is something I really need to consider.
+
+https://time.com/6102655/maid-stephanie-land-poverty
+
+
 > You are replaceable at work. You are not replaceable at home. Home is your real life.
 
 I know this. No matter what my folks at work say, I'll be replaceable. They can always find another mobile tech savvy guy like me, heck. But J the human is harder to replace in the context of a friendship or relationship. 
