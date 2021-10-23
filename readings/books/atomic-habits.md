@@ -628,3 +628,11 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 - (excerpt) president with nuclear launch codes. having to kill the volunteer as an idea of ensuring the president didn't ever go trigger happy.
 - (excerpt) seat belt law. laws/regulations form social contracts. mask mandates? social contract with the guy who paid his trainer for every time he fails to log food. excessive, but works! 
 
+
+
+## Advanced Tactics
+
+
+### Chapter 18
+-
+
