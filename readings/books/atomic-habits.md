@@ -634,5 +634,91 @@ Second Aside - I've been living in 2 houses since the start of the pandemic. I d
 
 
 ### Chapter 18
--
+- Choose the right field of competition to find success.
+- Pick the right habit, you'll do well. Wrong habit, bad time. Choose habits that best suit you and your natural abilities.
+- You can't change your genes, but understanding how to make the best of them can help in a favorable circumstance.
+- Play or create a game that favors your strengths.
+- Genes don't remove the need for hard work - they merely clarify what we should work on. IE: just because I'm tall doesn't mean I'm going to naturally be a basketball pro. Still need to go to practice.
+
+- (excerpt) Michael Phelps as the obvious example. Great swimmer, not so great runner.
+
+### Chapter 19
+- Goldilocks rule: peak motivation is found when humans are on the edge of their current abilities. 
+- Boredom is the most dangerous threat to success - not failure. Don't let our habits bore us. Always strive to improve. 
+- The ability to keep it going even when stuff isn't as exciting is what makes the difference. This separates pros from amateurs - pros will have the discipline and stick to schedule.
+- Fall in love with boredom. It can and will happen. 
+- Can't challenge yourself TOO much, or it'll not be helpful. Find the sweet spot.
+
+
+### Chapter 20
+- upside of habits, we can do things without thinking... but then we are prone to errors
+- habits + CONSTANT deliberate practice will help you attain full mastery
+- always plan to reflect/review at intervals to ensure you are on track and conscious on your performance
+- the tighter you cling to some identity, the harder it is to grow beyond it
+- choose an identity that isn't going to put you in a corner when you grow beyond it
+
+- (example) basketball players need to dribble fluently before talking game tactics.
+- (example) NBA example with CBE, 1% better each year for lakers helped them win. even though they had a "stacked" group, they didn't win until they focused on constant individual improvement
+- (excerpt) Lao Tzu - hard ad stiff will be broken. soft and supple will prevail
+
+
+### Conclusion
+- one tiny change? not much. many tiny changes? wealthy. (sorites paradox with coins)
+- success is not a goal. it is a constant process. an endless process to refine.
+- there is no permanent solution - always use the 4 laws. 
+- to build a habit..
+  - make it obvious
+  - make it attractive
+  - make it easy
+  - make it rewarding
+- to get rid of a bad habit..
+  - make it invisible
+  - make it ugly
+  - make it hard
+  - make it not rewarding
+
+- peace occurs when you don't turn observations into problems ( i resonate very heavily with this). i like to observe without craving. 
+- being curious is better than being smart. 
+- yes, emotions drive behavior - we can't pretend it doesn't. we can only be rational/logical after we have processed emotion. 
+- suffering DOES drive progress. desire initiates the action, pleasure ensures it'll continue.
+
+### Bonus:
+> https://s3.amazonaws.com/jamesclear/Atomic+Habits/Business+Appendix.pdf
+
+#### case study: slot machines in casino.
+- 1st law - slot machines are flashy, flashy. noisy. 
+- 2nd law - you have the "near miss". OH, I was SOOO close to the reward!
+- 3rd law - just pull the lever, or hit a button. very easy to spend and engage.
+- 4th law - it's hard to tell how much money you've actually spent in TOTAL for that session. machine always frames your situation as a WIN
+
+
+#### application of 1st law..
+- we use cues to grab customer attention. notifications to get users to engage with us/brand.
+- companies are in a race to get your user's attention
+- if you put your "log out" button in a hard to reach place... (making use of "make it invisible)
+- most profitable product is often placed in the most obvious place. (make it obvious)
+- make your product with a cue in mind to in turn, build a habit around it.
+
+
+#### application of 2nd law...
+- explain benefits of product in a clear and attractive manner.
+- your customer is going to make a prediction (coke or...) and you want to create a prediction that benefits you
+- personalization typically helps the prediction process
+- everyone is "selling" something in the end. doctors sell healthy lifestyle, coach sells teamwork
+- amazon is an example of the 2nd law applied to the extreme. (recently purchased? purchase again? here's what we think you'd like..)
+
+#### application of 3rd law...
+- uber and lyft example - how do we make it SO easy for people to hail a ride? (so many steps) - reduce friction. 
+- business is an eternal quest to make the same result, in an easier fashion (paraphrased)
+- again.. another example (amazon) - order something, no need to worry about tracking # or anything, just order and it'll show up. no matter what. 
+
+#### application of 4th law...
+- everyone wants their customers to return. you need to make your product/service satisfying so they will come back
+- the speed of the reward is a crucial factor. why would this customer go to me? because i reward them faster.
+- need to balance 2nd and 4th law. don't make the product so good that they would never come back.. (um. apple. with their phones that die in 1-2 years..)
+- drop little bits of satisfaction throughout the whole experience (like fake engine growling).
+- ultimately, behaviors that make them feel good will be repeated.
+
+
+
 
