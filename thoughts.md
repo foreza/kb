@@ -1,6 +1,72 @@
 # Thoughts
 
+> Teaching what you think you know really makes that knowledge stick. (me)
+
+I hate telling people the wrong thing, so this works for me. 
+
+> "A right solution might only benefit you. Solutions often require change. When there is change, others may feel like they lose something. Unfortunately, solutions that involve people don’t work this way. Appreciate the shades of grey .." (Patrick Kua)
+
+I experienced this recently at work. An integration had gone live, and I am in disbelief (still) since it obviously was working at literally 1/10th of it's potential. To be fair, it was before I had joined the company, so I had my hands tied. We had a team call just last week to discuss this, and even though we, as a team, agreed that yes, there was an issue - ultimately, they didn't want to agitate the customer/partner. And the partner was "happy" that things were working. So why stir the pot?
+
+I get it. Obviously, we want the best for us AND the customer. And if there is a potential where raising the alarm and pointing the finger could lose us everything, why would we do that?
+
+> "Debating creationists on the topic of evolution is rather like trying to play chess with a pigeon -- it knocks the pieces over, craps on the board, and flies back to its flock to claim victory." (a random amazon review, found on reddit)
+
+In other words, it doesn't matter if you are right if the person you are debating or talking with fundamentally isn't on the same page as you. I want to be able to identify such moments and extract myself from them before I spin my wheels trying to make progress in such a situation. If you want to play a good game of chess, you need to find a player who understands the rules rather than trying to extract a victory from somebody who doesn't know what chess is. 
+
+
+> "The simplest way is to focus on improving yourself instead of others." (Dale Carnegie & Associates)
+
+This is my life's work after having messed this up so terribly in my youth. In my quest to make everyone like me, I had forgot that I myself wasn't a person worth liking. Logic doesn't work. Repeated reasoning and incessant pleading doesn't outright change a person no matter what you do. You can really only make strides by improving yourself. I think it's still fine to want to improve others, but they have to consent to it and it needs to be a 2 way street. 
+
+
+
 This is a collection of stuff that resonated with me or hit me right in the feels.
+
+> "People who look for reasons why things won’t work, struggle to take action. People who look for reasons why things will work—and solve problems as they arise—make things happen.” (James Clear)
+
+
+I'm a problem solver by nature - and even with that, sometimes I surprise myself with how much BS I can cook up to _avoid_ taking action. One instance, I was trying to enter the building (having left my apartment key fob) and I gave up early. But had I just tried the door, I'd have found out that somebody had left it slightly ajar... I have to trust and try everything. That's how things happen.
+
+
+> "It’s better to rest than to climb the wrong mountain.” (James Clear)
+
+I feel like this is in part why I don't "finish" stuff. I detect early or feel that it's the _wrong_ mountain to climb. But is that just an excuse for being lazy? Who determines whether the climb is wrong or not? Perspective and situation will change.
+
+
+> "You can't make anybody trust you. All you can do is behave in a way that allows them to make a decision to trust you." (Rich Diviney)
+
+Not to toot my own horn too much, but I always wondered why people would gravitate to me in times of problems (back in the day, not so much now). I certainly wasn't the most skilled, or the most knowledgable. But what I did present (unfortunately, not recently) was taking a deep breath, a clear sense of calm but still urgent, focused while bringing the people back to the root problem in an attempt to triage. For me, flailing is (and still is) worse than death.
+
+But yeah. Agreed with this. I can't say - "trust me". It's their choice, based off of how I have acted in the past and how I act now.
+
+
+> "If you trust your manager, tell 👏 them 👏 your 👏 goals" (Emily Stark)
+
+Prefacing this with the fact that not everyone is lucky enough to have a _good_ manager. But my current rapport with my current (and prior) managers were all pretty good.
+
+I don't tell them my goals (and this needs to change) since I.. honestly don't have really crazy or lofty ones. I just want to have the freedom to hack away at cool things, skill up / learn more about anything, and be the "helpful advisor" in times of trouble. And not have my weekends/days taken away by crunch and fires. 
+
+> "If you really want to achieve your goal, it’s useful to step back and ask the question, “What could possibly go wrong?” (Patrick Kua)
+
+I always think about what can go wrong. But never in the context of "achieving", more of "trying not to disappoint/cause failures" ... I suppose it's just a context change!
+
+If I really wanted to be successful long-term in my habits, for instance - I should keep myself healthy (as being sick deters me from doing a lot of what I'd normally do well) and combine reading / thinking about them with actual practice (as neither can survive without the other). 
+
+> "High impact projects are more valuable than perfect execution on smaller scale projects" (Rebecca Panja)
+
+Was reading some more stories on reaching staff engineer, and this quote hit home. Better to deliver high impact now on the small project rather than perfection when your team has nothing to start off of. Of course, in a larger, more grounded company with a legacy stack - this wouldn't necessarily apply. 
+
+> "What is the biggest non-work related contribution you can make today?" (James Clear)
+
+Right. Uh. Not everything is about work. I work... and brain is off. Now what?
+Yeah. I need to find a hobby. I do like cooking! And uh.. taking care of my SO! But there must be more to it, right?
+
+
+> "The course of action that could provide greater happiness, meaning, or satisfaction in the long run may not make you happy in the next 30 minutes." (James Clear)
+
+So many choices I've made for this.. ah. As an example, my current rent situation. Yes, I could hypothetically move myself up to LA to quash the naysayers. Then what? Maroon myself for a year until I manage to luck out? I'd be happier with a roof over my head and stability, so that's what I want.
+
 
 > "And the answer needs to go beyond writing things down. A good example is how, to learn to skate, you cannot just rely on reading books about skating." (Pragmatic Engineer)
 

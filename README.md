@@ -1,6 +1,7 @@
 # kb
 Keeping myself accountable.
 Tackling reading, documenting my daily gratitude, and positive experiences.
+Also learning new things.
 Also, recipes that I have to fine tune over time since the pandemic has forced my hand. 
 
 ## readings
@@ -22,6 +23,7 @@ I've found that the only way to really begin to read for me is to summarize in m
 ## daily gratitude
 
 I want to list 3 things that made me happy that I'm grateful for, every day.
+I want to specifically focus on positive/happy experiences. 
 
 I seek to be more grateful. Why?
 - Putting myself in a positive mindset helps me tackle larger challenges.
@@ -34,14 +36,4 @@ I'm using a technique called "habit stacking" with my daily coffee so that I can
 Goal here is to "tetris stack" myself so I see good things everywhere.
 
 
-
-## positive experience
-
-I want to aim to document 3 positive experiences every week.
-
-I seek to document more positive experiences. Why?
-- Positive experiences should be called out explicitly so that they stand out.
-- We need a ratio of 3:1 - 3 good experiences to every negative experience
-- Good for practicing writing/documentation in general
-- Good for spotting common trends in what I consider a positive experience
 
