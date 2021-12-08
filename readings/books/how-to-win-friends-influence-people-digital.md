@@ -16,8 +16,6 @@ I still feel this. But the difference is I do learn to pause a little and think 
 > We are all united by one single desire: to be valued by another.
 
 
-
-
 We want constant validation and hate being condemned. In a weird way, I try to flip this by seeking condemnation/anticipating that people will hate on it. By starting there, I can only be impressed. Is that a good thing?
 
 > When we attempt to use criticism to win an argument, to make a point, or to incite change, we are taking two steps backward. People can be led to change as horses can be led to water, but deprecation will rarely inspire the results you are aiming for.
@@ -60,8 +58,11 @@ And you can agree to disagree on certain matters while remaining on good terms. 
 
 
 > the recipients of every bit and byte of your communication want value.
+
 > to influence others to act, you must first connect to a core desire within them.
+
 > Influence requires more intuition than intellect. To do so takes a shrewd and spontaneous ability to read beneath the surface of an interaction.
+
 >  It is a matter of discerning what they truly want and offering it to them in a mutually beneficial package.
 > arouse in the other person an eager want.
 
