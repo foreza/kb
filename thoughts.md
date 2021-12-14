@@ -1,5 +1,16 @@
 # Thoughts
 
+> Stop saying sorry. Unless you really are sorry. - Jason
+
+Yeah, I say sorry too much. Until my SO, friends, and etc all tune it out. 
+
+
+> "Money is replaceable, TIME with family and friends is not."
+
+I took so long to finally add this. But yeah. Time is a currency we can't earn or take back. Money helps us navigate things better, but it isn't the solution to everything.
+
+
+
 > Teaching what you think you know really makes that knowledge stick. (me)
 
 I hate telling people the wrong thing, so this works for me. 
