@@ -1,39 +1,21 @@
 # kb
-Keeping myself accountable.
-Tackling reading, documenting my daily gratitude, and positive experiences.
-Also learning new things.
-Also, recipes that I have to fine tune over time since the pandemic has forced my hand. 
 
-## readings
 
-I want to document and summarize all of my readings here as I read anything.
+## Premise:
+I'm trying to create a space to clean up my mind and my life.
 
-I seek to read more. Why?
-- To broaden my perspective so that I see beyond my day to day.
-- To challenge how I think and learn.
-- To remind myself that there is always something I don't know.
-- To walk many more miles in the shoes of others.
 
-I typically read things about self-improvement, engineering practices.
+Here is a lively documentation of what I'm trying to do.
 
-My long time weakness has been reading but not really reading.
 
-I've found that the only way to really begin to read for me is to summarize in my own words. And be corrected, and try again.
+I'll put most things into the archive to know what worked and what did work.
 
-## daily gratitude
 
-I want to list 3 things that made me happy that I'm grateful for, every day.
-I want to specifically focus on positive/happy experiences. 
-
-I seek to be more grateful. Why?
-- Putting myself in a positive mindset helps me tackle larger challenges.
-- Seeing the good in life primes me to see opportunities.
-
-I usually try this for a day or so and then forget.
-
-I'm using a technique called "habit stacking" with my daily coffee so that I can build this out.
-
-Goal here is to "tetris stack" myself so I see good things everywhere.
-
+Most recently, I've:
+- Wiped out the readings, daily gratitudes, and recipes. It was taking a lot of time, and wasn't really helping.
+- Introduced a new section for "index of discards" to help me get index and get rid of old things still hanging around.
+- Trying to use this to keep track of my euler code solutions. I wager this will move soon.
+- The thoughts file is great. I might have to create more.
+- And hmm, those resolutions are still empty...
 
 

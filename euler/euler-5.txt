@@ -1,0 +1,39 @@
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+
+Dumb answer:
+
+Multiply all the numbers from 11-20 (as 1-10 all divide evenly into them)
+
+Got a ridiculously large number which was not the solution.
+
+
+Slightly smarter answer:
+
+Break all the numbers down into base components.
+
+The numbers that can't be simplified:
+
+11, 13, 17, 19 = 46189
+
+From there, we take our remaining numbers and figure out how we can reduce them.
+
+12: 2,2,3
+14: 2,7
+15: 3,5
+16: 2,2,2,2
+18: 2,3,3
+20: 2,2,5
+
+We'll need to keep at most:
+
+2 (4) - 16 has to be supported. We can drop all other 2.
+3 (2) - 18 has to be supported. We can drop all other 3
+5 (1) - Supports both 20 and 15 by being included
+7 (1) - supports 14
+
+After that, you just multiple this all together:
+
+46189*2*2*2*2*3*3*5*7 = 232792560

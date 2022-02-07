@@ -1,14 +1,57 @@
 # Thoughts
 
-> Stop saying sorry. Unless you really are sorry. - Jason
+> "If something sounds unfamiliar to you, celebrate because that means you have an opportunity to be better than you were yesterday." - ???
+
+
+
+> "But it turns out that the people trying to teach me were just doing a bad job. Those books that dragged me through a series of structured principles were just bad books. I should have ignored them. I should have just played." - J Somers
+
+
+> " It’s called Internal Success before External Success in my book, and it means simply: get your shit together before you try to sell it to someone." - Mad Ned
+
+This is what keeps me up at night. Not having a solid story or reason behind the product we're working on. Just a good reminder (this whole story) that make sure you have support internally as well before you go for it. Few are going to support something that doesn't look secure.
+
+
+> "The 40-hour work week is a relic of the late 1800s" - Nick Moore, SourceGraph
+
+I'd love 3 day weekends to just work on other things, working harder (or more effectively M->TH to handle that). Work smart and effective, not long. Who cares how long you work if there's no output?
+
+
+> “Time-spent-at-desk is the worst measure of efficiency in software engineering.” - Loïc Guychard, engineering manager
+
+As long as you get it _done_ and your manager can reach you when they need to, what's the pain?
+
+I came from my first "big" job requiring us to be in our physical seats from 8 to 5 PM, with it intensely frowned upon to leave our seats, look not busy, etc. I also came from a culture where you don't dare leave until your boss leaves. 
+
+> "Growth demands a temporary surrender of security." - Gail Sheehy
+
+Once you surrender your pride and your safety net, things can happen.
+
+> "Many opportunities seem exciting but actually give you less of the life you want." - J. C
+
+Agreed. I usually entertain ideas because they sound good, but the time commitment/responsibility don't usually settle in until much later. 
+
+
+> "Slowing down enables you to act in a high quality way. Kind rather than curt. Polished rather than sloppy. It's hard to be thoughtful when you're in a rush." - J. C
+
+This is going to be the primary theme of 2022. Slowing down.
+I hit my head, hurt myself, and hurt others when I go fast.
+Also, I end up wasting more time and being more frustrated in the end.
+
+> “Do not expect to receive the love from someone else you do not give yourself.” (bell hooks)
+
+Treat yourself well too. If you treat yourself poorly, don't expect others to treat you well to compensate for that.
+
+
+
+> Stop saying sorry. Unless you really are sorry. - Me
 
 Yeah, I say sorry too much. Until my SO, friends, and etc all tune it out. 
 
 
 > "Money is replaceable, TIME with family and friends is not."
 
-I took so long to finally add this. But yeah. Time is a currency we can't earn or take back. Money helps us navigate things better, but it isn't the solution to everything.
-
+Time is a currency we can't earn or take back. Money helps us navigate things better, but it isn't the solution to everything.
 
 
 > Teaching what you think you know really makes that knowledge stick. (me)
@@ -28,19 +71,16 @@ In other words, it doesn't matter if you are right if the person you are debatin
 
 > "The simplest way is to focus on improving yourself instead of others." (Dale Carnegie & Associates)
 
-This is my life's work after having messed this up so terribly in my youth. In my quest to make everyone like me, I had forgot that I myself wasn't a person worth liking. Logic doesn't work. Repeated reasoning and incessant pleading doesn't outright change a person no matter what you do. You can really only make strides by improving yourself. I think it's still fine to want to improve others, but they have to consent to it and it needs to be a 2 way street. 
+This is my life's work after having messed this up so terribly in my youth. In my quest to make everyone like me, I had forgot that I myself wasn't a person worth liking. Logic doesn't work. Repeated reasoning and incessant pleading doesn't outright change a person no matter what you do. You can really only make strides by improving yourself. 
 
 
-
-This is a collection of stuff that resonated with me or hit me right in the feels.
-
-> "People who look for reasons why things won’t work, struggle to take action. People who look for reasons why things will work—and solve problems as they arise—make things happen.” (James Clear)
+> "People who look for reasons why things won’t work, struggle to take action. People who look for reasons why things will work—and solve problems as they arise—make things happen.” (J. Clear)
 
 
 I'm a problem solver by nature - and even with that, sometimes I surprise myself with how much BS I can cook up to _avoid_ taking action. One instance, I was trying to enter the building (having left my apartment key fob) and I gave up early. But had I just tried the door, I'd have found out that somebody had left it slightly ajar... I have to trust and try everything. That's how things happen.
 
 
-> "It’s better to rest than to climb the wrong mountain.” (James Clear)
+> "It’s better to rest than to climb the wrong mountain.” (J. Clear)
 
 I feel like this is in part why I don't "finish" stuff. I detect early or feel that it's the _wrong_ mountain to climb. But is that just an excuse for being lazy? Who determines whether the climb is wrong or not? Perspective and situation will change.
 
@@ -52,11 +92,11 @@ Not to toot my own horn too much, but I always wondered why people would gravita
 But yeah. Agreed with this. I can't say - "trust me". It's their choice, based off of how I have acted in the past and how I act now.
 
 
-> "If you trust your manager, tell 👏 them 👏 your 👏 goals" (Emily Stark)
+> "If you trust your manager, tell them your goals" (Emily Stark)
 
 Prefacing this with the fact that not everyone is lucky enough to have a _good_ manager. But my current rapport with my current (and prior) managers were all pretty good.
 
-I don't tell them my goals (and this needs to change) since I.. honestly don't have really crazy or lofty ones. I just want to have the freedom to hack away at cool things, skill up / learn more about anything, and be the "helpful advisor" in times of trouble. And not have my weekends/days taken away by crunch and fires. 
+I just want to have the freedom to hack away at cool things, skill up / learn more about anything, and be the "helpful advisor" in times of trouble. 
 
 > "If you really want to achieve your goal, it’s useful to step back and ask the question, “What could possibly go wrong?” (Patrick Kua)
 
@@ -64,17 +104,17 @@ I always think about what can go wrong. But never in the context of "achieving",
 
 If I really wanted to be successful long-term in my habits, for instance - I should keep myself healthy (as being sick deters me from doing a lot of what I'd normally do well) and combine reading / thinking about them with actual practice (as neither can survive without the other). 
 
-> "High impact projects are more valuable than perfect execution on smaller scale projects" (Rebecca Panja)
+> "High impact projects are more valuable than perfect execution on smaller scale projects" (R. Panja)
 
 Was reading some more stories on reaching staff engineer, and this quote hit home. Better to deliver high impact now on the small project rather than perfection when your team has nothing to start off of. Of course, in a larger, more grounded company with a legacy stack - this wouldn't necessarily apply. 
 
-> "What is the biggest non-work related contribution you can make today?" (James Clear)
+> "What is the biggest non-work related contribution you can make today?" (J. Clear)
 
 Right. Uh. Not everything is about work. I work... and brain is off. Now what?
 Yeah. I need to find a hobby. I do like cooking! And uh.. taking care of my SO! But there must be more to it, right?
 
 
-> "The course of action that could provide greater happiness, meaning, or satisfaction in the long run may not make you happy in the next 30 minutes." (James Clear)
+> "The course of action that could provide greater happiness, meaning, or satisfaction in the long run may not make you happy in the next 30 minutes." (J. Clear)
 
 So many choices I've made for this.. ah. As an example, my current rent situation. Yes, I could hypothetically move myself up to LA to quash the naysayers. Then what? Maroon myself for a year until I manage to luck out? I'd be happier with a roof over my head and stability, so that's what I want.
 
@@ -93,7 +133,7 @@ Amen. Rather than fighting fires daily, spend the bulk of your time preparing an
 This is real. A lot of incidents are not in fact tech problems - they are communication issues, gaps in understanding, failures of process, human error. 
 
 
-> "Choose the right field of competition." (James Clear - Atomic Habits)
+> "Choose the right field of competition." (J. Clear - Atomic Habits)
 
 I'm still finishing up Atomic habits, and this is a biggie. 
 To be frank, I'm not tall. Didn't do so well as school.
@@ -108,7 +148,7 @@ I'm not going to easily become a banker on wall street, or an engineer at the bi
 This came from an article I was reading. Back then, if you really loved programming, you'd have to line up / queue up to pay for mainframe access. You had to plan ahead on what you wanted to run / calculate. not like today, where we casually open up our IDE, get a coffee while the cursor is blinking, and sit there staring at the various classes/modules in our project while thinking about what's for lunch. I feel that the constraints of the past really helped mold a whole generation of programmers who prep and plan ahead, which has now sort of been lost with how readily available we can run code. Heck, I can open google chrome, go to the console, and I can type in rubbish that doesn't even get interpreted right and pay basically nothing except the price of my curiosity..
 
 
-> "The strategies that made you successful in the past will, at some point, reach their limit. Don't let your previous choices set your future ceiling. The willingness to try new ideas allows you to keep advancing." (James Clear)
+> "The strategies that made you successful in the past will, at some point, reach their limit. Don't let your previous choices set your future ceiling. The willingness to try new ideas allows you to keep advancing." (J. Clear)
 
 Trello worked for me in the past in the day to day. But gradually, it's more of a tool that helps me organize my thoughts, and I'm still breaking out of that habit of shifting cards around meaninglessly. 
 
@@ -132,7 +172,7 @@ Just because your calculations and thought process led you to believe something 
 
 
 
-> "The secret to being productive is to work on the right thing—even if it's at a slow pace." (James Clear)
+> "The secret to being productive is to work on the right thing—even if it's at a slow pace." (J. Clear)
 
 I've been working on the "right" thing for a couple years now. I'm not the best, but I'm better than before. Consistent technical practice, reading, and steady small projects has built up a pretty strong foundation which is already bearing fruit for my first job.
 
@@ -173,7 +213,7 @@ Likewise, if you have a mission critical service, you want redundancy and likely
 
 Sometimes, you just need to take one step. Can't hope forever! 
 
-> ""You only need to know the direction, not the destination. The direction is enough to make the next choice." (james clear)
+> ""You only need to know the direction, not the destination. The direction is enough to make the next choice." (J. clear)
 
 This helped me clarify what I needed to do next. I'll have to use this more often. Just start moving. 
 
