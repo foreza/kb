@@ -72,6 +72,10 @@
    From there, I figured out that the n choose k would stop at n/2 (and wouldn't need to *2)
    If n is even (like 20), we'd go to 10. 20,19,18....10
    If n is odd (like 5), we'd go to 3 Math.ceil(n/2). 5,4,3,3,4,5
+
+   // after checking the answer..
+
+   It's 40c20? WHAT
 */
 
 
@@ -106,10 +110,12 @@ function util_NChooseX(n,x) {
 }
 
 
+
+
 function solveFor20x20Grid(){
   var solArr = [
-    1,
-    1,
+    1, // 20 c 20
+    1, // 20 c 20
     2 * Math.pow(util_NChooseX(20,19),2),
     2 * Math.pow(util_NChooseX(20,18),2),
     2 * Math.pow(util_NChooseX(20,17),2),
@@ -125,3 +131,7 @@ function solveFor20x20Grid(){
 
   return solArr.reduce((a,b) => a+b);
 }
+
+
+// Note: util_NChooseX(40,20) would work but this overflows in JS.
+// https://www.calculatorsoup.com/calculators/discretemathematics/combinations.php?n=40&r=20&action=solve
