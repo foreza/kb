@@ -1,0 +1,95 @@
+
+<script>
+/**
+ * @param {number[][]} matrix
+ * @return {number[]}
+ */
+ var spiralOrder = function(matrix) {
+
+    var retMatrix = [];
+    
+    // Our pointers so we know to not repeat indices
+    var rightBound = matrix[0].length - 1;
+    var downBound = matrix.length - 1;
+    var upBound = 0;
+    var leftBound = 0;
+
+    var maxArrSize = matrix[0].length * matrix.length;
+
+    console.log(`Matrix dim: ${rightBound}, ${downBound}, ${upBound}, ${leftBound}`)
+    console.log(`Max allowable arr size: ${maxArrSize}`)
+
+    /*
+      currDir:
+        0 = heading right
+        1 = heading down
+        2 = heading left
+        3 = heading up  
+    */
+    var currDir = 0; 
+    
+    // Terminate the loop if the bounds exceed, or if the output array is the expected size of the current array
+
+    while ((upBound <= downBound  || leftBound <= rightBound) &&
+            retMatrix.length < maxArrSize) {
+        
+        if (currDir == 0) {
+            for (var i = leftBound; i <= rightBound; ++i){
+                // console.log(`[Right] Adding: ${upBound},${i}`)
+                retMatrix.push(matrix[upBound][i]);
+            }
+            upBound +=1;
+            currDir = 1;
+            continue;
+        }
+        
+        if (currDir == 1) {
+            for (var i = upBound; i <= downBound; ++i){
+                // console.log(`[Down] Adding: ${i},${rightBound}`)
+                retMatrix.push(matrix[i][rightBound]);
+            }
+            rightBound-=1; // next time, traverse 
+            currDir = 2;
+            continue;
+        }
+        
+        if (currDir == 2) {
+            for (var i = rightBound; i >= leftBound; --i){
+                // console.log(`[Left] Adding: ${downBound},${i}`)
+                retMatrix.push(matrix[downBound][i]);
+            }
+            downBound -=1;   // next time, traverse 1 floor less
+            currDir = 3;
+            continue;
+        }
+        
+        if (currDir == 3) {
+            for (var i = downBound; i >= upBound; --i){
+                // console.log(`[Up] Adding: ${i},${leftBound}`)
+                retMatrix.push(matrix[i][leftBound]);
+            }
+            leftBound+=1;
+            currDir = 0;
+            continue;
+        }
+        
+    }
+    
+    console.log("terminated: ", retMatrix)
+    return retMatrix;
+};
+
+
+/*
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [1,2,3,6,9,8,7,4,5]
+*/
+spiralOrder([[1,2,3],[4,5,6],[7,8,9]]);
+console.log("Output: [1,2,3,6,9,8,7,4,5]");
+/*
+Input: matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+Output: [1,2,3,4,8,12,11,10,9,5,6,7]
+*/
+spiralOrder([[1,2,3,4],[5,6,7,8],[9,10,11,12]]);
+console.log("Output: [1,2,3,4,8,12,11,10,9,5,6,7]")
+</script>
