@@ -101,8 +101,3 @@ let solver = (aStart, aEnd, bStart, bEnd) => {
 }
 
 solver(-999,999,-1000,1000);
-
-
-// {num_prime_found: 71, a: -61, b: 971}
-// -61*971
-// -59231
