@@ -15,32 +15,46 @@
  */
 
 
-  let generateDiagNum = (spiralSize) => {
+let generateDiagNum = (spiralSize) => {
 
-    let finalSet = [1]
-    let incrementAmt = 2;
+  let finalSet = [1]
+  let incrementAmt = 2;
 
-    for (let i = 1, tCounter = 4; i < spiralSize; i+=incrementAmt, tCounter--) {
+  for (let i = 1, tCounter = 4; i < spiralSize; i += incrementAmt, tCounter--) {
 
-      if (tCounter == 0) {
-        incrementAmt+=2;
-        tCounter = 4;
-      }
-
-      finalSet.push(i+incrementAmt);
+    if (tCounter == 0) {
+      incrementAmt += 2;
+      tCounter = 4;
     }
 
-    console.log("Result:", finalSet)
-
-    return finalSet.reduce((a,b)=>a+b);
-
+    finalSet.push(i + incrementAmt);
   }
 
-  console.log(generateDiagNum(1001*1001));
+  console.log("Result:", finalSet)
+
+  return finalSet.reduce((a, b) => a + b);
+
+}
+
+console.log(generateDiagNum(1001 * 1001));
 
 
-  /* 
-    Did I think about drawing the spiral? Absolutely.
-    Would that have solved the problem? Probably not easily.
-    I needed to just.. write out the numbers...
-  */
+/* 
+  Did I think about drawing the spiral? Absolutely.
+  Would that have solved the problem? Probably not easily.
+  I needed to just.. write out the numbers...
+*/
+
+// Posted on Euler
+
+
+// let edges = [1], incAmt = 2;
+// for (let i = 1, tCounter = 4; i < 1001 * 1001; i += incAmt, tCounter--) {
+//   if (tCounter == 0) {
+//     incAmt += 2, tCounter = 4;
+//   }
+//   edges.push(i + incAmt);
+// }
+// console.log(edges.reduce((a, b) => a + b));
+
+
