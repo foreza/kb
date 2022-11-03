@@ -1,7 +1,101 @@
 # Thoughts
 
-> "If something sounds unfamiliar to you, celebrate because that means you have an opportunity to be better than you were yesterday." - ???
+> "How about working hard to continually improve over 24 months? Well, now you're starting to get somewhere..." - Peter Norvig
 
+I skimmed '21 days' as part of an assignment. And as much as this sucks to say, this statement feels uncomfortable, but it's true.
+24 hours to get good at something? Well, 24 hours might give you practical knowledge for the moment, but the more complicated the topic, the less this applies.
+Have to practice ONLY that, and studiously.
+
+
+> "Giving yourself options in the future always appears suboptimal in the moment. Putting yourself in a good position for tomorrow means paying today." - FS | Brain Food
+
+This one gave me a bit of a pause.
+I'm very conservative with funds. I don't have a whole lot of choices. 
+It seems that I need to know at least the general direction of what I want to do in the future before I make a play for a good position.
+
+
+> "Stop hoarding the insignificant." - David Hansson
+
+I have regular decision paralysis. 
+I stress a lot about the super small things that nobody really cares about. 
+It also has little to no impact!
+Need to let go of all the "small" ideas and focus on a few good ones.
+
+
+> "as a developer - the key to progress is strong communication. people skills is a thing.  be a good listener. smile. say people's names. be interested in people. make them feel important. tech skills can only get you so far."
+
+
+> "compounding learning, attaining prestige, working with coworkers, managing yourself efficiently... good returns overall!" (https://lethain.com/forty-year-career/) 
+
+
+> "learning deep and learning broad. both apply and help you attain mastery!"
+
+
+> "Success depends on constant, sustained impact. not random spikes."
+
+
+
+> “Each day I walk into work, and this slot opens up above my head, and money falls out of it into my hands, then the slot closes. I go about my day, and the next day I come back, and the slot reopens; more money falls out.”
+
+
+If you can't manage your own pace, you will burn out repeatedly.
+if you take responsibility for everything, you will also burn out. 
+
+
+> Spending all day in planning meetings is a waste of time, especially if you lack complete information. I’ve had success with discovery tasks and sprints (depending on the scope and scale of the project)
+
+This is why, in my opinion, it's important to have technical people allocated for discoveries. You can't and will not find everything just sitting on your butt. I aim to be such an individual. Of course, you could be very experienced and see all the way to the end (congrats!) but proving it out is still a valuable exercise.
+
+> "In preparing for battle I have always found that plans are useless, but planning is indispensable." ― Dwight D. Eisenhower
+
+
+Also, as a follow-up - estimates are useless BUT the process of estimating is incredibly valuable. 
+
+> There’s pretty much always a customer for your work, be it internal or external, and they want to have an idea of when something will be delivered or if it’s worth delivering based on the cost vs estimated benefits."
+
+I suppose if there is no customer for your work on the other hand, you should re-eval whether you should be working on it in the first place.
+
+
+> "I read once that the true mark of a pro — at anything — is that he understands, loves, and is good at even the drudgery of his profession." - Paul Halmos
+
+I suppose the drudgery of engineering is documentation of processes, maintenance, and training, but I do enjoy those. 
+
+
+> "villainizing is mostly a coping mechanism, rather than a sensible way of understanding or addressing problems"
+
+I feel like this is very true - everyone is motivated by something, and I'm hopeful that given enough time, 2 very different people can find common ground on something.
+But I think the main takeaway here is to not write off somebody right away when somebody does you a disservice. Sometimes, it is truly unintentional, or a misunderstanding. Humans are bad at communication, easily offended, prideful, and each with their own share of problems (financial, mental etc) and like the fella who gave me a hard time when I pointed at a non-pepperoni pizza and said, I want pepperoni.... sometimes, I need to look in the mirror. :)
+
+
+> ""You need focus to become exceptional at anything. Massive amounts of time and energy are wasted optimizing things that should be left undone. You have to be great at saying no." - Clear
+
+I realize that a lot of successful people are just really good at saying "NO". 
+And for good reason. It goes back to expectation setting.
+What matters is _what_ you say NO to. If you say NO to the wrong things, you're probably going to have a rough time. 
+
+
+> "Hakuna Matata. it means no worries, so fuck your job. Life's too short and no one cares."
+
+Yeah, at the end of the day, I'm exchanging work for money. It would be nice that work doesn't bleed into my personal life too much. The extent I think it should bleed into is to maintain people relationships. 
+
+
+> ""If you know where you want to go in life, people tend to help or get out of the way." - Clear
+
+
+> "The world is full of probabilities, not certainties." - Clear
+
+
+
+> "There are times when dreams sustain us more than facts." - Helen Fagin
+
+
+> "A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system." - John Gall
+
+
+> "The gift of a beginner is fresh eyes." - Clear
+
+
+> "If something sounds unfamiliar to you, celebrate because that means you have an opportunity to be better than you were yesterday." - ???
 
 
 > "But it turns out that the people trying to teach me were just doing a bad job. Those books that dragged me through a series of structured principles were just bad books. I should have ignored them. I should have just played." - J Somers
