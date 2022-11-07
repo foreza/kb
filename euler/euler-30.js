@@ -28,11 +28,14 @@ solverToLimit(999999,1999999, 5); // [4150, 4151, 54748, 92727, 93084, 194979]
 
 // Revised version
 
+
+/* 
+Brute forced it to get the initial solution by manually setting an upper bound.
+Works fine, but I'd expect this to need to be tweaked.
+*/
 let revised_solverToLimit = (power) => {
-
-  const UPPER_BOUND = Math.pow(9,power)*5; // Maximum possible number we can grab;
+  const UPPER_BOUND = Math.pow(9,power)*5; // Maximum possible number we can grab
   let solutionArr = [];
-
   for (let i = 2; i <= UPPER_BOUND; ++i) {
 
     let tSum = i.toString()
@@ -41,11 +44,9 @@ let revised_solverToLimit = (power) => {
                   .reduce((a,b) => a+b);
 
     if (tSum == i) {
-      console.log("found one: ", tSum);
       solutionArr.push(tSum);
     }
 
   }
-
   return solutionArr;
 }
