@@ -1,0 +1,178 @@
+<!-- 145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.
+
+    Find the sum of all numbers which are equal to the sum of the factorial of their digits.
+    
+    Note: As 1! = 1 and 2! = 2 are not sums they are not included. -->
+    
+    <script>
+    
+        // 187 is not correct (3 ... 145)
+        // 145 is also not correct - there must be another number
+        // 451 and 541 and 154?
+    
+        
+    
+        // solverFromXToY(10,9999999);
+        // solverFromXToY(10000000,20000000);
+        // solverFromXToY(20000000,90000000);
+        // solverFromXToY(90000000, 900000000);
+        // 1499999
+        // 900000000
+    
+        // 145
+    
+        
+    
+        var resultArray = [];
+    
+        function solverFromXToY(limitX, limitY) {
+    
+            for (var i = limitX; i < limitY; i++) {
+    
+                let ans = isCuriousNumber(i);
+    
+                if (ans) {
+                    resultArray.push(i);
+                }
+    
+            }
+            console.log(resultArray);
+            return resultArray;
+        }
+    
+    
+    
+        function isCuriousNumber(number, elaborate) {
+    
+            let log = false;
+    
+            if (typeof (elaborate) != "undefined") {
+                log = true;
+            }
+    
+            var numStringArr = ("" + number)
+                .split("").map((a) => parseInt(a));
+    
+            let factorialSum = 0;
+    
+            for (var i = 0; i < numStringArr.length; ++i) {
+    
+                // short terminate condition to speed up our algorithm
+                if (factorialSum >= number) {
+                    if (log) {
+                        console.log(`short terminated: ${factorialSum} >= ${number}`)
+                    }
+                    return false;
+                }
+    
+                factorialSum += util_getFactorialForNumber(numStringArr[i]);
+            }
+    
+            if (log) {
+                console.log(`Sum = ${factorialSum}, number = ${number}`);
+            }
+    
+            if (factorialSum == number) {
+                console.log("found curious number: ", number);
+                return true;
+            }
+    
+            return false;
+    
+        }
+    
+    
+        let util_indexedFactorials = [1, 1, 2, 6, 24, 120, 720, 5040, 40320, 362880];
+    
+        function util_getFactorialForNumber(number) {
+    
+            if (number == 0) {
+                return 1;
+            }
+    
+            // do a "cache" lookup to make that O(1)
+            if (typeof (util_indexedFactorials[number]) != "undefined") {
+                // console.log("found in cache");
+                return util_indexedFactorials[number];
+            }
+            // calculate and store the factorial
+            let tVal = 1;
+            for (var i = number; i > 1; i--) {
+                tVal *= i;
+            }
+    
+            util_indexedFactorials[number] = tVal;
+            return tVal;
+    
+    
+        }
+    
+    
+        // solverFromXToY(10,1499999);
+    
+    
+    </script>
+    
+    
+    <!-- I think I'm going about this the wrong way.
+    There are only a few numbers that satisfy this.
+    We need to be able to eliminate whole sets   -->
+    
+    <script>
+    
+        /*
+        
+        
+            0: 1
+            1: 1
+            2: 2
+            3: 6
+            4: 24
+            5: 120
+            6: 720
+            7: 5040
+            8: 40320
+            9: 362880 // upper bound: 999999
+    
+            I'm discovering an upper bound.
+            Where no matter how many more "9s" I add, there is no way to "make up" that sum.
+            That's cool!
+    
+            999999
+            
+    
+    
+        */
+        // let factorialArr = []
+    
+        // for (var i = 0; i <= 9; ++i) {
+        //     factorialArr.push(util_getFactorialForNumber(i));
+        // }
+    
+        // console.log(factorialArr);
+    
+        function getFaithfulCurious(number) {
+    
+            var numStringArr = ("" + number)
+                .split("").map((a) => parseInt(a));
+    
+            // original - which won't short terminate
+            factorialSum = numStringArr.reduce((a, b) =>
+                a += util_getFactorialForNumber(b)
+            )
+    
+            // console.log(`(FS)${factorialSum} - (Actual Num)${number} = ${factorialSum - number}`);
+    
+            return factorialSum;
+        }
+    
+        var coordArr = [];
+    
+        function getPointsForFaithful() {
+            for (var i = 0; i < 150; ++i) {
+                coordArr.push({x:i, y:getFaithfulCurious(i)});
+            }
+            return coordArr;
+        }
+    
+    </script>

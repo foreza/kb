@@ -1,3 +1,23 @@
+// euler 32
+// https://projecteuler.net/problem=32
+
+/*
+
+We have essentially a set of 9 numbers:
+[1,2,3,4,5,6,7,8,9]
+
+And we want to find combinations of these numbers where:
+
+X.. * Y.. = Z..
+
+Where "XYZ" 
+
+*/
+
+
+// console.log(isPandigitalProduct(186,39)) // True
+// console.log(isPandigitalProduct(186,32)) // False
+
 const PANDIGITAL = 123456789;
 
 function isPandigitalProduct(largerNum, smallerNum){
